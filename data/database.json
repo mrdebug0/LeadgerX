@@ -1,0 +1,3904 @@
+{
+  "users": [
+    {
+      "id": "user-1788684212569-911",
+      "email": "ramesh@kirana.in",
+      "name": "Ramesh Sharma",
+      "passwordHash": "$2b$10$9tXxImJS2RuHk9RXKlh4Cuj7Qqr6Yo2uKOJ5/3es6TMH.Yj2HJzR6",
+      "storeName": "Ramesh Kirana Mart",
+      "role": "Owner",
+      "plan": "Pro",
+      "createdAt": "2026-09-06T08:43:32.569Z"
+    },
+    {
+      "id": "user-1788689076884-68",
+      "email": "testkirana@leadgerx.com",
+      "name": "Test Kirana",
+      "passwordHash": "$2b$10$GkSU6EFGSBCkx7zo/pt4WOsj2XhG5k65A7G00Pni9eWS1Kq8tR3u2",
+      "storeName": "Test Supermarket",
+      "role": "Owner",
+      "plan": "Pro",
+      "createdAt": "2026-09-06T10:04:36.884Z"
+    },
+    {
+      "id": "user-suresh",
+      "email": "prashantmenaria7@gmail.com",
+      "name": "Suresh Kumar",
+      "storeName": "Suresh Kirana Store",
+      "passwordHash": "$2b$10$B43rh2I5/NSP.PNfd.fuUufAqP00sBTKvlDD3WhU0LzHoNo94WLKm",
+      "role": "Owner",
+      "plan": "Pro",
+      "activeStoreId": "store-suresh-primary",
+      "themePreference": "light",
+      "createdAt": "2026-06-01T00:00:00.000Z"
+    },
+    {
+      "id": "user-1789373109526-904",
+      "email": "qa_1789373109389_poga0j3@leadgerx-qa.internal",
+      "name": "QA Tester poga0j3",
+      "passwordHash": "$2b$10$N1vyMhf6b3cBir35wt4GPOFtK3S7e38v.joKWgEb2YjDB3OvbyMAq",
+      "storeName": "QA Store poga0j3",
+      "role": "Owner",
+      "plan": "Pro",
+      "createdAt": "2026-09-14T08:05:09.526Z"
+    },
+    {
+      "id": "user-1789373109646-736",
+      "email": "qa_1789373109389_hehzs82@leadgerx-qa.internal",
+      "name": "QA Tester hehzs82",
+      "passwordHash": "$2b$10$ScBUBKLsVujgcj4Zub7ZzOh0dJCcSq/ZFlBYYs5TPT7vQpALFdt4C",
+      "storeName": "QA Store hehzs82",
+      "role": "Owner",
+      "plan": "Pro",
+      "createdAt": "2026-09-14T08:05:09.646Z"
+    },
+    {
+      "id": "user-1789373111692-300",
+      "email": "qa_1789373111585_h3sc1z2@leadgerx-qa.internal",
+      "name": "QA Tester h3sc1z2",
+      "passwordHash": "$2b$10$9aGyGCXzYxIcD2B75B2jT..lhQivb.Hnz8bKQ0S488yWxzdpEgdJ2",
+      "storeName": "QA Store h3sc1z2",
+      "role": "Owner",
+      "plan": "Pro",
+      "createdAt": "2026-09-14T08:05:11.692Z"
+    },
+    {
+      "id": "user-1789373111840-63",
+      "email": "qa_1789373111585_1qu6goq@leadgerx-qa.internal",
+      "name": "QA Tester 1qu6goq",
+      "passwordHash": "$2b$10$FUN6ZWqLkODFFlwGu6rLQuTi7rF2le9C69kLwidy0VvwzcCP9MUv2",
+      "storeName": "QA Store 1qu6goq",
+      "role": "Owner",
+      "plan": "Pro",
+      "createdAt": "2026-09-14T08:05:11.840Z"
+    },
+    {
+      "id": "user-1789373156270-708",
+      "email": "qa_1789373156165_kn9saom@leadgerx-qa.internal",
+      "name": "QA Tester kn9saom",
+      "passwordHash": "$2b$10$dSDEr4pRrXqeofM0hFAHuO.vCzmAtNj.UusRghqdzc3sZCVWG1.9C",
+      "storeName": "QA Store kn9saom",
+      "role": "Owner",
+      "plan": "Pro",
+      "createdAt": "2026-09-14T08:05:56.270Z"
+    },
+    {
+      "id": "user-1789373156407-199",
+      "email": "qa_1789373156165_8jidlht@leadgerx-qa.internal",
+      "name": "QA Tester 8jidlht",
+      "passwordHash": "$2b$10$33A2b8ggEtI5cxuCUn3QC.bA4fL1g1CZstW97go8RslLs337gcJM2",
+      "storeName": "QA Store 8jidlht",
+      "role": "Owner",
+      "plan": "Pro",
+      "createdAt": "2026-09-14T08:05:56.407Z"
+    },
+    {
+      "id": "user-1789373156867-237",
+      "email": "qa_1789373156762_dou7yja@leadgerx-qa.internal",
+      "name": "QA Tester dou7yja",
+      "passwordHash": "$2b$10$CJHTqN6dF1Dfby9T1dfsEOeofDyHgjClTFnOwZVVU17Vo/uObj.z.",
+      "storeName": "QA Store dou7yja",
+      "role": "Owner",
+      "plan": "Pro",
+      "createdAt": "2026-09-14T08:05:56.867Z"
+    },
+    {
+      "id": "user-1789373156988-253",
+      "email": "qa_1789373156762_esk7i1p@leadgerx-qa.internal",
+      "name": "QA Tester esk7i1p",
+      "passwordHash": "$2b$10$CLhnMNw1xPI9Vowz0kbwX.3vwFYjUj/ynQ/I5VVs3tCmGLLlxbAx6",
+      "storeName": "QA Store esk7i1p",
+      "role": "Owner",
+      "plan": "Pro",
+      "createdAt": "2026-09-14T08:05:56.988Z"
+    },
+    {
+      "id": "user-1789373173170-981",
+      "email": "qa_1789373170621_fm2lool@leadgerx-qa.internal",
+      "name": "QA Tester fm2lool",
+      "passwordHash": "$2b$10$5SHcV1zzr0kqdG96md3yZOBxUguLiB1Ai/KapgOu8sIxiROOQDC4i",
+      "storeName": "QA Store fm2lool",
+      "role": "Owner",
+      "plan": "Pro",
+      "createdAt": "2026-09-14T08:06:13.170Z"
+    },
+    {
+      "id": "user-1789373182271-763",
+      "email": "qa_1789373180003_c5e5nc8@leadgerx-qa.internal",
+      "name": "QA Tester c5e5nc8",
+      "passwordHash": "$2b$10$DPNNPUOulqEn.9T11WOeLOoXdF0gVEdqyS7s0U5.KgJWMGzrKRyOC",
+      "storeName": "QA Store c5e5nc8",
+      "role": "Owner",
+      "plan": "Pro",
+      "createdAt": "2026-09-14T08:06:22.271Z",
+      "themePreference": "light"
+    },
+    {
+      "id": "user-1789373199603-374",
+      "email": "qa_1789373197060_8qfqvpn@leadgerx-qa.internal",
+      "name": "QA Tester 8qfqvpn",
+      "passwordHash": "$2b$10$45xxXnq4awphoLq1WE.q7u9/SXA6IlJeSqChSuV3aGPiOgnA5bMT2",
+      "storeName": "QA Store 8qfqvpn",
+      "role": "Owner",
+      "plan": "Pro",
+      "createdAt": "2026-09-14T08:06:39.603Z"
+    },
+    {
+      "id": "user-1789373324883-145",
+      "email": "qa_1789373322409_zl4be43@leadgerx-qa.internal",
+      "name": "QA Tester zl4be43",
+      "passwordHash": "$2b$10$DM.HJpKmlD5ognzGEvBct.FdmoBCazJ8vVUShOBsUCfmRGlG11YMW",
+      "storeName": "QA Store zl4be43",
+      "role": "Owner",
+      "plan": "Pro",
+      "createdAt": "2026-09-14T08:08:44.883Z"
+    },
+    {
+      "id": "user-1789373360397-427",
+      "email": "qa_1789373357185_57phdfv@leadgerx-qa.internal",
+      "name": "QA Tester 57phdfv",
+      "passwordHash": "$2b$10$wXUh3neauyvvaSuU2bsj3OUf5Uj39yzOk75SJr3YnbOX1qK9AHkC.",
+      "storeName": "QA Store 57phdfv",
+      "role": "Owner",
+      "plan": "Pro",
+      "createdAt": "2026-09-14T08:09:20.397Z"
+    },
+    {
+      "id": "user-1789373376299-381",
+      "email": "qa_1789373373999_b5m2tyz@leadgerx-qa.internal",
+      "name": "QA Tester b5m2tyz",
+      "passwordHash": "$2b$10$ycib.qA6bGt4R5YlyaFhFeo8GkikMFIOssIckgBgsfuCsX.jxATkG",
+      "storeName": "QA Store b5m2tyz",
+      "role": "Owner",
+      "plan": "Pro",
+      "createdAt": "2026-09-14T08:09:36.299Z"
+    },
+    {
+      "id": "user-1789373440477-684",
+      "email": "qa_1789373438015_et9g849@leadgerx-qa.internal",
+      "name": "QA Tester et9g849",
+      "passwordHash": "$2b$10$4DdLPceS16gf0auYWuWQdu/yqiXbCv/kf8A80Q5PXZvxMwBnNt9rK",
+      "storeName": "QA Store et9g849",
+      "role": "Owner",
+      "plan": "Pro",
+      "createdAt": "2026-09-14T08:10:40.477Z"
+    },
+    {
+      "id": "user-1789373460173-262",
+      "email": "qa_1789373457632_s6sfjk0@leadgerx-qa.internal",
+      "name": "QA Tester s6sfjk0",
+      "passwordHash": "$2b$10$hIkurKyHEgXMurDpCOiJOeIUGeuhbb8oZNO7sfDN1Dj5e71XLwyTS",
+      "storeName": "QA Store s6sfjk0",
+      "role": "Owner",
+      "plan": "Pro",
+      "createdAt": "2026-09-14T08:11:00.173Z"
+    },
+    {
+      "id": "user-1789373551083-997",
+      "email": "qa_1789373548079_unkjn7r@leadgerx-qa.internal",
+      "name": "QA Tester unkjn7r",
+      "passwordHash": "$2b$10$inm0iJ9LAAruVE4P8c1LX.WpIcDqrVF0X1axtg0Avqv7Hsg.wNV8a",
+      "storeName": "QA Store unkjn7r",
+      "role": "Owner",
+      "plan": "Pro",
+      "createdAt": "2026-09-14T08:12:31.083Z"
+    },
+    {
+      "id": "user-1789373677789-231",
+      "email": "qa_1789373674949_u7777xn@leadgerx-qa.internal",
+      "name": "QA Tester u7777xn",
+      "passwordHash": "$2b$10$OYj0ngNZhOZZnupJntiUyuGq9q2V74JdhXrccSkdXEaAX/bW94tsu",
+      "storeName": "QA Store u7777xn",
+      "role": "Owner",
+      "plan": "Pro",
+      "createdAt": "2026-09-14T08:14:37.789Z",
+      "themePreference": "light"
+    },
+    {
+      "id": "user-1789374974972-892",
+      "email": "qa_1789374974689_9m8ya8w@leadgerx-qa.internal",
+      "name": "QA Tester 9m8ya8w",
+      "passwordHash": "$2b$10$GhY1DYY2MkWWRls/xdW7nuxsC0b/LY3DCc.M2lpgjLHsLSdSztxd6",
+      "storeName": "QA Store 9m8ya8w",
+      "role": "Owner",
+      "plan": "Pro",
+      "createdAt": "2026-09-14T08:36:14.972Z"
+    },
+    {
+      "id": "user-1789374975058-726",
+      "email": "qa_1789374974689_9e4orne@leadgerx-qa.internal",
+      "name": "QA Tester 9e4orne",
+      "passwordHash": "$2b$10$zm2vtVkUFjn8UIK2uLvzR.oAMV7BHJet5uyhQJrr1gBGFr1W9kHoK",
+      "storeName": "QA Store 9e4orne",
+      "role": "Owner",
+      "plan": "Pro",
+      "createdAt": "2026-09-14T08:36:15.058Z"
+    },
+    {
+      "id": "user-1789375229727-247",
+      "email": "qa_1789375229638_88r8u4d@leadgerx-qa.internal",
+      "name": "QA Tester 88r8u4d",
+      "passwordHash": "$2b$10$fFpcjRvNJ9uRqmmnWwEVXenZjIDx/43ktIaZJM/NQU2ooPzxZy.xK",
+      "storeName": "QA Store 88r8u4d",
+      "role": "Owner",
+      "plan": "Pro",
+      "createdAt": "2026-09-14T08:40:29.727Z"
+    },
+    {
+      "id": "user-1789375229813-314",
+      "email": "qa_1789375229638_ivm7ubt@leadgerx-qa.internal",
+      "name": "QA Tester ivm7ubt",
+      "passwordHash": "$2b$10$Urqa03/nLvyXQOsnPYUtqO9Uy9KpFN5oAB69bmvlp3OQPeRavjc9C",
+      "storeName": "QA Store ivm7ubt",
+      "role": "Owner",
+      "plan": "Pro",
+      "createdAt": "2026-09-14T08:40:29.813Z"
+    },
+    {
+      "id": "user-1789537206066-837",
+      "email": "qa_1789537205890_mzvpct4@leadgerx-qa.internal",
+      "name": "QA Tester mzvpct4",
+      "passwordHash": "$2b$10$D6vQv.VuiYp/selU61Ln6ufbQEgI6DbZPGBlezykwP8JX90sgufXm",
+      "storeName": "QA Store mzvpct4",
+      "role": "Owner",
+      "plan": "Pro",
+      "createdAt": "2026-09-16T05:40:06.066Z"
+    },
+    {
+      "id": "user-1789537217009-106",
+      "email": "qa_1789537216890_m3asrw4@leadgerx-qa.internal",
+      "name": "QA Tester m3asrw4",
+      "passwordHash": "$2b$10$Ysw.IbfUVuWYlvBZIHDB3e2KhCI5jTFEl5y7lliq6bV0qQHf4aYI2",
+      "storeName": "QA Store m3asrw4",
+      "role": "Owner",
+      "plan": "Pro",
+      "createdAt": "2026-09-16T05:40:17.009Z"
+    },
+    {
+      "id": "user-1789537217126-960",
+      "email": "qa_1789537216890_g2wk2an@leadgerx-qa.internal",
+      "name": "QA Tester g2wk2an",
+      "passwordHash": "$2b$10$2J8wyJOag1sllaqJ1vTZvuAi0jvbCli.aXZvWjA.cLD.w0aYjfC9y",
+      "storeName": "QA Store g2wk2an",
+      "role": "Owner",
+      "plan": "Pro",
+      "createdAt": "2026-09-16T05:40:17.126Z"
+    },
+    {
+      "id": "user-1789538187497-592",
+      "email": "qa_1789538187351_4z594o0@leadgerx-qa.internal",
+      "name": "QA Tester 4z594o0",
+      "passwordHash": "$2b$10$tYzd3CWXsRQT.Y2wZean9uFcKU2W8RSh6QCnuT5Yxs.YDeEZg38z.",
+      "storeName": "QA Store 4z594o0",
+      "role": "Owner",
+      "plan": "Pro",
+      "createdAt": "2026-09-16T05:56:27.497Z"
+    },
+    {
+      "id": "user-1789538213883-728",
+      "email": "qa_1789538213774_27heyvf@leadgerx-qa.internal",
+      "name": "QA Tester 27heyvf",
+      "passwordHash": "$2b$10$miPszDBN0lGn291fosoYvun3R7Bnmi9r2hi4D74CFn3jeySoonVtK",
+      "storeName": "QA Store 27heyvf",
+      "role": "Owner",
+      "plan": "Pro",
+      "createdAt": "2026-09-16T05:56:53.883Z"
+    },
+    {
+      "id": "user-1789538214008-548",
+      "email": "qa_1789538213774_or3edjp@leadgerx-qa.internal",
+      "name": "QA Tester or3edjp",
+      "passwordHash": "$2b$10$rhfWxMf87BdIwqKje92SPu2VQR6x3/OYf2cXH3SB6M0V9M6WKTJeG",
+      "storeName": "QA Store or3edjp",
+      "role": "Owner",
+      "plan": "Pro",
+      "createdAt": "2026-09-16T05:56:54.008Z"
+    },
+    {
+      "id": "user-1789538295795-669",
+      "email": "qa_1789538295676_b5xd90t@leadgerx-qa.internal",
+      "name": "QA Tester b5xd90t",
+      "passwordHash": "$2b$10$ucLrfLHHiaDxSA8mvgn1iOZUrHt8tNdhL/fpf0w2kqFrmjOJzhp8C",
+      "storeName": "QA Store b5xd90t",
+      "role": "Owner",
+      "plan": "Pro",
+      "createdAt": "2026-09-16T05:58:15.795Z"
+    },
+    {
+      "id": "user-1789538304508-396",
+      "email": "qa_1789538301646_9viawr8@leadgerx-qa.internal",
+      "name": "QA Tester 9viawr8",
+      "passwordHash": "$2b$10$QrIOAqt/6GgJEuRF/stLr.OeNa79/2K8FdRvYpIkextAOiIvRgAn6",
+      "storeName": "QA Store 9viawr8",
+      "role": "Owner",
+      "plan": "Pro",
+      "createdAt": "2026-09-16T05:58:24.508Z"
+    },
+    {
+      "id": "user-1789538313491-584",
+      "email": "qa_1789538311079_5ttod69@leadgerx-qa.internal",
+      "name": "QA Tester 5ttod69",
+      "passwordHash": "$2b$10$Kwv6mAFuyNKDvHVc11yo9uSAqIiAf11nIKKX.TQv7H6iE7DD8gkN2",
+      "storeName": "QA Store 5ttod69",
+      "role": "Owner",
+      "plan": "Pro",
+      "createdAt": "2026-09-16T05:58:33.491Z",
+      "themePreference": "light"
+    },
+    {
+      "id": "user-1789538321747-673",
+      "email": "qa_1789538319245_nxxcts9@leadgerx-qa.internal",
+      "name": "QA Tester nxxcts9",
+      "passwordHash": "$2b$10$2Zz0cjXohbu2EGWFkIQvS.bgdSrBRDj7Vcfq91BzBO6eriQPUjhu6",
+      "storeName": "QA Store nxxcts9",
+      "role": "Owner",
+      "plan": "Pro",
+      "createdAt": "2026-09-16T05:58:41.747Z",
+      "themePreference": "light"
+    },
+    {
+      "id": "user-1789538337686-536",
+      "email": "qa_1789538335127_jerc2wb@leadgerx-qa.internal",
+      "name": "QA Tester jerc2wb",
+      "passwordHash": "$2b$10$Y1FjoRns0/7NXbTygbDxhuE9jeapabMEc1WH1QhyH5eec0SwyntTu",
+      "storeName": "QA Store jerc2wb",
+      "role": "Owner",
+      "plan": "Pro",
+      "createdAt": "2026-09-16T05:58:57.686Z"
+    },
+    {
+      "id": "user-1789538345213-940",
+      "email": "qa_1789538342615_9gn18jc@leadgerx-qa.internal",
+      "name": "QA Tester 9gn18jc",
+      "passwordHash": "$2b$10$p.shy93qafgKVNyp8YLOpOc94/6KBisrQJECCYEQiFOEU4xNKKFDS",
+      "storeName": "QA Store 9gn18jc",
+      "role": "Owner",
+      "plan": "Pro",
+      "createdAt": "2026-09-16T05:59:05.213Z"
+    },
+    {
+      "id": "user-1789538350391-161",
+      "email": "qa_1789538350279_3wl70sz@leadgerx-qa.internal",
+      "name": "QA Tester 3wl70sz",
+      "passwordHash": "$2b$10$icz7nczyT/fD7oAF0.XBW./rHirgde2/Y1Oy6.WTn/PXtFu5n57la",
+      "storeName": "QA Store 3wl70sz",
+      "role": "Owner",
+      "plan": "Pro",
+      "createdAt": "2026-09-16T05:59:10.391Z"
+    },
+    {
+      "id": "user-1789538350500-992",
+      "email": "qa_1789538350279_jgj8tzq@leadgerx-qa.internal",
+      "name": "QA Tester jgj8tzq",
+      "passwordHash": "$2b$10$etZnwJWQg7wBjCbFhXjNaO/ULRE3gKVU6Tms2uP1wIs5d7.4as/dm",
+      "storeName": "QA Store jgj8tzq",
+      "role": "Owner",
+      "plan": "Pro",
+      "createdAt": "2026-09-16T05:59:10.500Z"
+    },
+    {
+      "id": "user-1789538350891-93",
+      "email": "qa_1789538350748_vui4kf6@leadgerx-qa.internal",
+      "name": "QA Tester vui4kf6",
+      "passwordHash": "$2b$10$9jLeB/2B8uyF.Q924XlqUOEn8V6y1Vv3B4nR2Sfv0KVy.FD4AlINa",
+      "storeName": "QA Store vui4kf6",
+      "role": "Owner",
+      "plan": "Pro",
+      "createdAt": "2026-09-16T05:59:10.891Z"
+    },
+    {
+      "id": "user-1789538351066-173",
+      "email": "qa_1789538350748_cd2101u@leadgerx-qa.internal",
+      "name": "QA Tester cd2101u",
+      "passwordHash": "$2b$10$Hb/qyXt7WrRMm82mXFPpoOgUf7FDX/Fj2C2ApxBTNVBFvzi.L9DW.",
+      "storeName": "QA Store cd2101u",
+      "role": "Owner",
+      "plan": "Pro",
+      "createdAt": "2026-09-16T05:59:11.066Z"
+    },
+    {
+      "id": "user-1789538439832-605",
+      "email": "qa_1789538439677_v45cqwj@leadgerx-qa.internal",
+      "name": "QA Tester v45cqwj",
+      "passwordHash": "$2b$10$qQPZo7qoIIRaSAPHTTLmdu4GUBhYdRNlzPZOeoHlBv5l62xzlvoHi",
+      "storeName": "QA Store v45cqwj",
+      "role": "Owner",
+      "plan": "Pro",
+      "createdAt": "2026-09-16T06:00:39.832Z"
+    },
+    {
+      "id": "user-1789538446673-467",
+      "email": "qa_1789538443289_nbsv0dv@leadgerx-qa.internal",
+      "name": "QA Tester nbsv0dv",
+      "passwordHash": "$2b$10$jBkA3qbVQSM0rJ9ttV/tNe7v1JS83EVMzg7Zboc8jko2Ks72r7uU2",
+      "storeName": "QA Store nbsv0dv",
+      "role": "Owner",
+      "plan": "Pro",
+      "createdAt": "2026-09-16T06:00:46.673Z"
+    },
+    {
+      "id": "user-1789538455857-807",
+      "email": "qa_1789538453268_dwkf0he@leadgerx-qa.internal",
+      "name": "QA Tester dwkf0he",
+      "passwordHash": "$2b$10$MHbOp6Qn8YbfiyjbcUqrCOM25kM4EderfYyPRVxXU1UJFh2.f4En6",
+      "storeName": "QA Store dwkf0he",
+      "role": "Owner",
+      "plan": "Pro",
+      "createdAt": "2026-09-16T06:00:55.857Z",
+      "themePreference": "light"
+    },
+    {
+      "id": "user-1789538464589-436",
+      "email": "qa_1789538461971_sjidzmw@leadgerx-qa.internal",
+      "name": "QA Tester sjidzmw",
+      "passwordHash": "$2b$10$dntVP5HX9lfW/cbGgTnA1eJ8KALz8fs3lCK4l1Nxhd.EwDVdE7yui",
+      "storeName": "QA Store sjidzmw",
+      "role": "Owner",
+      "plan": "Pro",
+      "createdAt": "2026-09-16T06:01:04.589Z",
+      "themePreference": "light"
+    },
+    {
+      "id": "user-1789538480311-131",
+      "email": "qa_1789538477630_lq7csg3@leadgerx-qa.internal",
+      "name": "QA Tester lq7csg3",
+      "passwordHash": "$2b$10$PtqrQxO6NqUCdlvnhenPZOGtebTTrj7ZNIIgbBGZu2xKe6Uagnl5G",
+      "storeName": "QA Store lq7csg3",
+      "role": "Owner",
+      "plan": "Pro",
+      "createdAt": "2026-09-16T06:01:20.311Z"
+    },
+    {
+      "id": "user-1789538487641-768",
+      "email": "qa_1789538484849_8kku91v@leadgerx-qa.internal",
+      "name": "QA Tester 8kku91v",
+      "passwordHash": "$2b$10$OTG3Wb47UWTJ9KtyvvRHDOkwOaKqWJo9Rz3UyHAzjjffIM.ziWxye",
+      "storeName": "QA Store 8kku91v",
+      "role": "Owner",
+      "plan": "Pro",
+      "createdAt": "2026-09-16T06:01:27.641Z"
+    },
+    {
+      "id": "user-1789538493074-163",
+      "email": "qa_1789538492958_76oqteh@leadgerx-qa.internal",
+      "name": "QA Tester 76oqteh",
+      "passwordHash": "$2b$10$vnjTGPb1NXEx4rJnf0sEyOWOKAOSAzsoDMuGkg/pgk8YeZty4rxj6",
+      "storeName": "QA Store 76oqteh",
+      "role": "Owner",
+      "plan": "Pro",
+      "createdAt": "2026-09-16T06:01:33.074Z"
+    },
+    {
+      "id": "user-1789538493186-389",
+      "email": "qa_1789538492958_1tiqpx3@leadgerx-qa.internal",
+      "name": "QA Tester 1tiqpx3",
+      "passwordHash": "$2b$10$cb22LtxX7l89cBr5mAGu4uLysVpzZ77f1upacHS6LVfVRvxd4kpmG",
+      "storeName": "QA Store 1tiqpx3",
+      "role": "Owner",
+      "plan": "Pro",
+      "createdAt": "2026-09-16T06:01:33.186Z"
+    },
+    {
+      "id": "user-1789538493579-901",
+      "email": "qa_1789538493409_0fysdw7@leadgerx-qa.internal",
+      "name": "QA Tester 0fysdw7",
+      "passwordHash": "$2b$10$ftJJpbrgf7WAPQ9.psR7NeenbjNNwuXiH2dvvSnLYxOptWHpOBBuy",
+      "storeName": "QA Store 0fysdw7",
+      "role": "Owner",
+      "plan": "Pro",
+      "createdAt": "2026-09-16T06:01:33.579Z"
+    },
+    {
+      "id": "user-1789538493755-330",
+      "email": "qa_1789538493409_l8bocr4@leadgerx-qa.internal",
+      "name": "QA Tester l8bocr4",
+      "passwordHash": "$2b$10$ggfAeJCfqHZiEXX48nInaeGFCOjG7uNxvFAQvVcyWgDbXhEXLUZTe",
+      "storeName": "QA Store l8bocr4",
+      "role": "Owner",
+      "plan": "Pro",
+      "createdAt": "2026-09-16T06:01:33.755Z"
+    },
+    {
+      "id": "user-1789540483517-474",
+      "email": "qa_1789540480757_udnxikm@leadgerx-qa.internal",
+      "name": "QA Tester udnxikm",
+      "passwordHash": "$2b$10$YE6fEsvwoX4f5beEMcan5e7GuVd0jR571/YlK5KzagvxUP0YmsnQ6",
+      "storeName": "QA Store udnxikm",
+      "role": "Owner",
+      "plan": "Pro",
+      "createdAt": "2026-09-16T06:34:43.517Z",
+      "themePreference": "light"
+    },
+    {
+      "id": "user-1789541020664-241",
+      "email": "qa_1789541017812_ddx2xkm@leadgerx-qa.internal",
+      "name": "QA Tester ddx2xkm",
+      "passwordHash": "$2b$10$.xQRvl.sp.46PffaqbhpVubkD8G5KW4JEA7dO6xq.10EjrMSfZh.2",
+      "storeName": "QA Store ddx2xkm",
+      "role": "Owner",
+      "plan": "Pro",
+      "createdAt": "2026-09-16T06:43:40.664Z",
+      "themePreference": "light"
+    },
+    {
+      "id": "user-1789541069058-474",
+      "email": "qa_1789541068944_qguzk6b@leadgerx-qa.internal",
+      "name": "QA Tester qguzk6b",
+      "passwordHash": "$2b$10$ddAJGx68UocsFCPEXOOQju1MDssrDn89.xaSiBMbMZCbkyTWPVVf2",
+      "storeName": "QA Store qguzk6b",
+      "role": "Owner",
+      "plan": "Pro",
+      "createdAt": "2026-09-16T06:44:29.058Z"
+    },
+    {
+      "id": "user-1789541074160-755",
+      "email": "qa_1789541071363_m0pbyo5@leadgerx-qa.internal",
+      "name": "QA Tester m0pbyo5",
+      "passwordHash": "$2b$10$7LAyX7ZjG6ld4W8YsM/41e/mDefzaYNetFV8YdTD8FdTrq9yTnt22",
+      "storeName": "QA Store m0pbyo5",
+      "role": "Owner",
+      "plan": "Pro",
+      "createdAt": "2026-09-16T06:44:34.160Z"
+    },
+    {
+      "id": "user-1789541082968-330",
+      "email": "qa_1789541080364_vfa5dnn@leadgerx-qa.internal",
+      "name": "QA Tester vfa5dnn",
+      "passwordHash": "$2b$10$eVv4KY43EZklqaGHXmma6OgElACIpt2VI6THWVgQpOKXymtPnqJgG",
+      "storeName": "QA Store vfa5dnn",
+      "role": "Owner",
+      "plan": "Pro",
+      "createdAt": "2026-09-16T06:44:42.968Z",
+      "themePreference": "light"
+    },
+    {
+      "id": "user-1789541091857-87",
+      "email": "qa_1789541089191_0i8yw2d@leadgerx-qa.internal",
+      "name": "QA Tester 0i8yw2d",
+      "passwordHash": "$2b$10$WNdWPWDhW1brg/C8JxoToOHel1ub.6KSJ9YtNvuVaqIA5AVeumBhe",
+      "storeName": "QA Store 0i8yw2d",
+      "role": "Owner",
+      "plan": "Pro",
+      "createdAt": "2026-09-16T06:44:51.857Z",
+      "themePreference": "light"
+    },
+    {
+      "id": "user-1789541108476-924",
+      "email": "qa_1789541105665_9v17ggm@leadgerx-qa.internal",
+      "name": "QA Tester 9v17ggm",
+      "passwordHash": "$2b$10$3gPERTbl1WDNbovZPhAz0OKAP/ukZBdsXWvajCZOshvwpoffOmmhG",
+      "storeName": "QA Store 9v17ggm",
+      "role": "Owner",
+      "plan": "Pro",
+      "createdAt": "2026-09-16T06:45:08.476Z"
+    },
+    {
+      "id": "user-1789541115945-880",
+      "email": "qa_1789541113029_lcwxwhp@leadgerx-qa.internal",
+      "name": "QA Tester lcwxwhp",
+      "passwordHash": "$2b$10$2W24xEC.8BlOt1JW8AtYk.59qAJFMVyjREhiNczdrXYLfzq5vbVvu",
+      "storeName": "QA Store lcwxwhp",
+      "role": "Owner",
+      "plan": "Pro",
+      "createdAt": "2026-09-16T06:45:15.945Z"
+    },
+    {
+      "id": "user-1789541121362-35",
+      "email": "qa_1789541121251_a3oxuvg@leadgerx-qa.internal",
+      "name": "QA Tester a3oxuvg",
+      "passwordHash": "$2b$10$ltek7gq4QIduwulEUksGfu/FiukpICajjQXJA0MOAFrseDTyJye56",
+      "storeName": "QA Store a3oxuvg",
+      "role": "Owner",
+      "plan": "Pro",
+      "createdAt": "2026-09-16T06:45:21.362Z"
+    },
+    {
+      "id": "user-1789541121469-378",
+      "email": "qa_1789541121251_6eh5z8g@leadgerx-qa.internal",
+      "name": "QA Tester 6eh5z8g",
+      "passwordHash": "$2b$10$Xd95jn3XA.ZnbbFu1fAqXu5z3NXx0y.MPXNqkfIDZHugqwlcrmFYW",
+      "storeName": "QA Store 6eh5z8g",
+      "role": "Owner",
+      "plan": "Pro",
+      "createdAt": "2026-09-16T06:45:21.469Z"
+    },
+    {
+      "id": "user-1789541121875-486",
+      "email": "qa_1789541121689_080y7sq@leadgerx-qa.internal",
+      "name": "QA Tester 080y7sq",
+      "passwordHash": "$2b$10$FtN3BNENd9LYsQ9kGTcuAOSuCaA0ziIVKpndXIYk8WxZc.66ugSZ.",
+      "storeName": "QA Store 080y7sq",
+      "role": "Owner",
+      "plan": "Pro",
+      "createdAt": "2026-09-16T06:45:21.875Z"
+    },
+    {
+      "id": "user-1789541122042-660",
+      "email": "qa_1789541121689_q66dive@leadgerx-qa.internal",
+      "name": "QA Tester q66dive",
+      "passwordHash": "$2b$10$XSg/Pdwqb451qkQ/fcMbeOtKwb3uMD4GbIS/43mmYSqoH9VvsRMaK",
+      "storeName": "QA Store q66dive",
+      "role": "Owner",
+      "plan": "Pro",
+      "createdAt": "2026-09-16T06:45:22.042Z"
+    }
+  ],
+  "entries": [
+    {
+      "id": "e-1789541099945-374",
+      "storeId": "store-1789541091858-890",
+      "customerName": "Rajesh Kumar hrso9",
+      "productName": "Udhaar Settlement Payment",
+      "quantity": 1,
+      "price": 500,
+      "amount": 500,
+      "type": "sale",
+      "status": "paid",
+      "paymentMethod": "cash",
+      "date": "2026-09-16T06:44:59.945Z",
+      "notes": "Settlement for Udhaar #u-1789541098821-439. "
+    },
+    {
+      "id": "e-1789541098821-715",
+      "storeId": "store-1789541091858-890",
+      "userId": "user-1789541091857-87",
+      "customerName": "Rajesh Kumar hrso9",
+      "productName": "Credit Cooking Oil 1L",
+      "quantity": 1,
+      "price": 500,
+      "amount": 500,
+      "type": "sale",
+      "status": "udhaar",
+      "paymentMethod": "cash",
+      "date": "2026-09-16T06:44:58.817Z",
+      "notes": ""
+    },
+    {
+      "id": "e-1789541097874-621",
+      "storeId": "store-1789541091858-890",
+      "userId": "user-1789541091857-87",
+      "customerName": "Rajesh Kumar hrso9",
+      "productName": "Basmati Rice 5kg hrso9",
+      "quantity": 2,
+      "price": 480,
+      "amount": 960,
+      "type": "sale",
+      "status": "paid",
+      "paymentMethod": "cash",
+      "date": "2026-09-16T06:44:57.868Z",
+      "notes": ""
+    },
+    {
+      "id": "e-1789541028849-252",
+      "storeId": "store-1789541020667-163",
+      "customerName": "Rajesh Kumar 3gm1t",
+      "productName": "Udhaar Settlement Payment",
+      "quantity": 1,
+      "price": 500,
+      "amount": 500,
+      "type": "sale",
+      "status": "paid",
+      "paymentMethod": "cash",
+      "date": "2026-09-16T06:43:48.849Z",
+      "notes": "Settlement for Udhaar #u-1789541027728-970. "
+    },
+    {
+      "id": "e-1789541027728-671",
+      "storeId": "store-1789541020667-163",
+      "userId": "user-1789541020664-241",
+      "customerName": "Rajesh Kumar 3gm1t",
+      "productName": "Credit Cooking Oil 1L",
+      "quantity": 1,
+      "price": 500,
+      "amount": 500,
+      "type": "sale",
+      "status": "udhaar",
+      "paymentMethod": "cash",
+      "date": "2026-09-16T06:43:47.725Z",
+      "notes": ""
+    },
+    {
+      "id": "e-1789541026994-545",
+      "storeId": "store-1789541020667-163",
+      "userId": "user-1789541020664-241",
+      "customerName": "Rajesh Kumar 3gm1t",
+      "productName": "Basmati Rice 5kg 3gm1t",
+      "quantity": 2,
+      "price": 480,
+      "amount": 960,
+      "type": "sale",
+      "status": "paid",
+      "paymentMethod": "cash",
+      "date": "2026-09-16T06:43:46.989Z",
+      "notes": ""
+    },
+    {
+      "id": "e-1789540491554-885",
+      "storeId": "store-1789540483518-106",
+      "customerName": "Rajesh Kumar xa1oh",
+      "productName": "Udhaar Settlement Payment",
+      "quantity": 1,
+      "price": 500,
+      "amount": 500,
+      "type": "sale",
+      "status": "paid",
+      "paymentMethod": "cash",
+      "date": "2026-09-16T06:34:51.554Z",
+      "notes": "Settlement for Udhaar #u-1789540490517-230. "
+    },
+    {
+      "id": "e-1789540490516-650",
+      "storeId": "store-1789540483518-106",
+      "userId": "user-1789540483517-474",
+      "customerName": "Rajesh Kumar xa1oh",
+      "productName": "Credit Cooking Oil 1L",
+      "quantity": 1,
+      "price": 500,
+      "amount": 500,
+      "type": "sale",
+      "status": "udhaar",
+      "paymentMethod": "cash",
+      "date": "2026-09-16T06:34:50.513Z",
+      "notes": ""
+    },
+    {
+      "id": "e-1789540489844-645",
+      "storeId": "store-1789540483518-106",
+      "userId": "user-1789540483517-474",
+      "customerName": "Rajesh Kumar xa1oh",
+      "productName": "Basmati Rice 5kg xa1oh",
+      "quantity": 2,
+      "price": 480,
+      "amount": 960,
+      "type": "sale",
+      "status": "paid",
+      "paymentMethod": "cash",
+      "date": "2026-09-16T06:34:49.837Z",
+      "notes": ""
+    },
+    {
+      "id": "e-1789538472535-67",
+      "storeId": "store-1789538464591-26",
+      "customerName": "Rajesh Kumar is991",
+      "productName": "Udhaar Settlement Payment",
+      "quantity": 1,
+      "price": 500,
+      "amount": 500,
+      "type": "sale",
+      "status": "paid",
+      "paymentMethod": "cash",
+      "date": "2026-09-16T06:01:12.535Z",
+      "notes": "Settlement for Udhaar #u-1789538471429-326. "
+    },
+    {
+      "id": "e-1789538471429-457",
+      "storeId": "store-1789538464591-26",
+      "userId": "user-1789538464589-436",
+      "customerName": "Rajesh Kumar is991",
+      "productName": "Credit Cooking Oil 1L",
+      "quantity": 1,
+      "price": 500,
+      "amount": 500,
+      "type": "sale",
+      "status": "udhaar",
+      "paymentMethod": "cash",
+      "date": "2026-09-16T06:01:11.425Z",
+      "notes": ""
+    },
+    {
+      "id": "e-1789538470725-951",
+      "storeId": "store-1789538464591-26",
+      "userId": "user-1789538464589-436",
+      "customerName": "Rajesh Kumar is991",
+      "productName": "Basmati Rice 5kg is991",
+      "quantity": 2,
+      "price": 480,
+      "amount": 960,
+      "type": "sale",
+      "status": "paid",
+      "paymentMethod": "cash",
+      "date": "2026-09-16T06:01:10.719Z",
+      "notes": ""
+    },
+    {
+      "id": "e-1789538329934-119",
+      "storeId": "store-1789538321748-752",
+      "customerName": "Rajesh Kumar rq4dl",
+      "productName": "Udhaar Settlement Payment",
+      "quantity": 1,
+      "price": 500,
+      "amount": 500,
+      "type": "sale",
+      "status": "paid",
+      "paymentMethod": "cash",
+      "date": "2026-09-16T05:58:49.934Z",
+      "notes": "Settlement for Udhaar #u-1789538328640-951. "
+    },
+    {
+      "id": "e-1789538328640-669",
+      "storeId": "store-1789538321748-752",
+      "userId": "user-1789538321747-673",
+      "customerName": "Rajesh Kumar rq4dl",
+      "productName": "Credit Cooking Oil 1L",
+      "quantity": 1,
+      "price": 500,
+      "amount": 500,
+      "type": "sale",
+      "status": "udhaar",
+      "paymentMethod": "cash",
+      "date": "2026-09-16T05:58:48.635Z",
+      "notes": ""
+    },
+    {
+      "id": "e-1789538327827-394",
+      "storeId": "store-1789538321748-752",
+      "userId": "user-1789538321747-673",
+      "customerName": "Rajesh Kumar rq4dl",
+      "productName": "Basmati Rice 5kg rq4dl",
+      "quantity": 2,
+      "price": 480,
+      "amount": 960,
+      "type": "sale",
+      "status": "paid",
+      "paymentMethod": "cash",
+      "date": "2026-09-16T05:58:47.816Z",
+      "notes": ""
+    },
+    {
+      "id": "e-1789373686284-468",
+      "storeId": "store-1789373677790-715",
+      "customerName": "Rajesh Kumar 9ql1u",
+      "productName": "Udhaar Settlement Payment",
+      "quantity": 1,
+      "price": 500,
+      "amount": 500,
+      "type": "sale",
+      "status": "paid",
+      "paymentMethod": "cash",
+      "date": "2026-09-14T08:14:46.284Z",
+      "notes": "Settlement for Udhaar #u-1789373685071-886. "
+    },
+    {
+      "id": "e-1789373685071-509",
+      "storeId": "store-1789373677790-715",
+      "userId": "user-1789373677789-231",
+      "customerName": "Rajesh Kumar 9ql1u",
+      "productName": "Credit Cooking Oil 1L",
+      "quantity": 1,
+      "price": 500,
+      "amount": 500,
+      "type": "sale",
+      "status": "udhaar",
+      "paymentMethod": "cash",
+      "date": "2026-09-14T08:14:45.067Z",
+      "notes": ""
+    },
+    {
+      "id": "e-1789373684310-697",
+      "storeId": "store-1789373677790-715",
+      "userId": "user-1789373677789-231",
+      "customerName": "Rajesh Kumar 9ql1u",
+      "productName": "Basmati Rice 5kg 9ql1u",
+      "quantity": 2,
+      "price": 480,
+      "amount": 960,
+      "type": "sale",
+      "status": "paid",
+      "paymentMethod": "cash",
+      "date": "2026-09-14T08:14:44.304Z",
+      "notes": ""
+    },
+    {
+      "id": "e-1789373558148-215",
+      "storeId": "store-1789373551084-549",
+      "userId": "user-1789373551083-997",
+      "customerName": "Rajesh Kumar 3m15i",
+      "productName": "Credit Cooking Oil 1L",
+      "quantity": 1,
+      "price": 500,
+      "amount": 500,
+      "type": "sale",
+      "status": "udhaar",
+      "paymentMethod": "cash",
+      "date": "2026-09-14T08:12:38.144Z",
+      "notes": ""
+    },
+    {
+      "id": "e-1789373557370-668",
+      "storeId": "store-1789373551084-549",
+      "userId": "user-1789373551083-997",
+      "customerName": "Rajesh Kumar 3m15i",
+      "productName": "Basmati Rice 5kg 3m15i",
+      "quantity": 2,
+      "price": 480,
+      "amount": 960,
+      "type": "sale",
+      "status": "paid",
+      "paymentMethod": "cash",
+      "date": "2026-09-14T08:12:37.363Z",
+      "notes": ""
+    },
+    {
+      "id": "e-1788689086331-413",
+      "storeId": "store-1788689076884-253",
+      "userId": "user-1788689076884-68",
+      "customerName": "Ramesh Bhai",
+      "productName": "Basmati Rice 5kg",
+      "quantity": 2,
+      "price": 450,
+      "amount": 900,
+      "type": "sale",
+      "status": "paid",
+      "paymentMethod": "upi",
+      "date": "2026-09-06T10:04:46.331Z",
+      "notes": ""
+    },
+    {
+      "id": "e-1788684243856-751",
+      "storeId": "store-1788684212570-893",
+      "userId": "user-1788684212569-911",
+      "customerName": "Vikas Patel",
+      "productName": "Tata Salt 1kg",
+      "quantity": 5,
+      "price": 28,
+      "amount": 140,
+      "type": "sale",
+      "status": "paid",
+      "paymentMethod": "cash",
+      "date": "2026-09-06T08:44:03.856Z",
+      "notes": ""
+    },
+    {
+      "id": "e-1",
+      "customerName": "Amit Singh",
+      "productName": "Aashirvaad Atta 5kg",
+      "quantity": 2,
+      "price": 270,
+      "amount": 540,
+      "type": "sale",
+      "status": "paid",
+      "date": "2026-06-09T10:30:00Z"
+    },
+    {
+      "id": "e-2",
+      "customerName": "Priya Sharma",
+      "productName": "Amul Butter 100g",
+      "quantity": 3,
+      "price": 55,
+      "amount": 165,
+      "type": "sale",
+      "status": "udhaar",
+      "date": "2026-06-09T14:45:00Z"
+    },
+    {
+      "id": "e-3",
+      "customerName": "Rahul Kumar",
+      "productName": "Tata Salt 1kg",
+      "quantity": 1,
+      "price": 25,
+      "amount": 25,
+      "type": "sale",
+      "status": "udhaar",
+      "date": "2026-06-10T08:00:00Z"
+    },
+    {
+      "id": "e-4",
+      "customerName": "Self",
+      "productName": "Shop Cleaning Supplies",
+      "quantity": 1,
+      "price": 350,
+      "amount": 350,
+      "type": "expense",
+      "status": "paid",
+      "date": "2026-06-08T11:20:00Z"
+    },
+    {
+      "id": "e-5",
+      "customerName": "Amit Singh",
+      "productName": "Fortune Mustard Oil 1L",
+      "quantity": 2,
+      "price": 180,
+      "amount": 360,
+      "type": "sale",
+      "status": "paid",
+      "date": "2026-06-10T09:15:00Z"
+    },
+    {
+      "id": "e-1",
+      "storeId": "store-suresh-primary",
+      "userId": "user-suresh",
+      "customerName": "Amit Singh",
+      "productName": "Aashirvaad Atta 5kg",
+      "quantity": 2,
+      "price": 270,
+      "amount": 540,
+      "type": "sale",
+      "status": "paid",
+      "paymentMethod": "cash",
+      "date": "2026-06-09T10:30:00.000Z",
+      "notes": "Counter retail sale"
+    },
+    {
+      "id": "e-2",
+      "storeId": "store-suresh-primary",
+      "userId": "user-suresh",
+      "customerName": "Priya Sharma",
+      "productName": "Amul Butter 100g",
+      "quantity": 3,
+      "price": 55,
+      "amount": 165,
+      "type": "sale",
+      "status": "udhaar",
+      "paymentMethod": "credit",
+      "date": "2026-06-09T14:45:00.000Z",
+      "notes": "Udhaar logged - pending collection"
+    },
+    {
+      "id": "e-3",
+      "storeId": "store-suresh-primary",
+      "userId": "user-suresh",
+      "customerName": "Rahul Kumar",
+      "productName": "Tata Salt 1kg",
+      "quantity": 1,
+      "price": 25,
+      "amount": 25,
+      "type": "sale",
+      "status": "udhaar",
+      "paymentMethod": "credit",
+      "date": "2026-06-10T08:00:00.000Z",
+      "notes": "Regular customer credit"
+    },
+    {
+      "id": "e-4",
+      "storeId": "store-suresh-primary",
+      "userId": "user-suresh",
+      "customerName": "Self",
+      "productName": "Shop Cleaning Supplies",
+      "quantity": 1,
+      "price": 350,
+      "amount": 350,
+      "type": "expense",
+      "status": "paid",
+      "paymentMethod": "cash",
+      "date": "2026-06-08T11:20:00.000Z",
+      "notes": "Shop maintenance & hygiene"
+    },
+    {
+      "id": "e-5",
+      "storeId": "store-suresh-primary",
+      "userId": "user-suresh",
+      "customerName": "Amit Singh",
+      "productName": "Fortune Mustard Oil 1L",
+      "quantity": 2,
+      "price": 180,
+      "amount": 360,
+      "type": "sale",
+      "status": "paid",
+      "paymentMethod": "upi",
+      "date": "2026-06-10T09:15:00.000Z",
+      "notes": "UPI payment received via QR"
+    }
+  ],
+  "customers": [
+    {
+      "id": "cust-1789541122055-469",
+      "storeId": "store-1789541122043-395",
+      "name": "Isolated Customer B gkz3z6",
+      "phone": "9200000002",
+      "email": "customerb@test.com",
+      "outstandingBalance": 0,
+      "aiRiskScore": 20,
+      "aiRiskStatus": "Low",
+      "aiRecoverySuggestions": [
+        "Regular customer. Keep credit limit up to ₹2,000."
+      ],
+      "purchaseCount": 1,
+      "notes": ""
+    },
+    {
+      "id": "cust-1789541121889-316",
+      "storeId": "store-1789541121877-746",
+      "name": "Isolated Customer A gkz3z6",
+      "phone": "9100000001",
+      "email": "customera@test.com",
+      "outstandingBalance": 0,
+      "aiRiskScore": 20,
+      "aiRiskStatus": "Low",
+      "aiRecoverySuggestions": [
+        "Regular customer. Keep credit limit up to ₹2,000."
+      ],
+      "purchaseCount": 1,
+      "notes": ""
+    },
+    {
+      "id": "cust-1789541094483-798",
+      "storeId": "store-1789541091858-890",
+      "name": "Rajesh Kumar hrso9",
+      "phone": "9834310783",
+      "email": "rajesh_hrso9@kirana.test",
+      "outstandingBalance": 0,
+      "aiRiskScore": 20,
+      "aiRiskStatus": "Low",
+      "aiRecoverySuggestions": [
+        "Regular customer. Keep credit limit up to ₹2,000."
+      ],
+      "purchaseCount": 3,
+      "notes": ""
+    },
+    {
+      "id": "cust-1789541023520-430",
+      "storeId": "store-1789541020667-163",
+      "name": "Rajesh Kumar 3gm1t",
+      "phone": "9818664934",
+      "email": "rajesh_3gm1t@kirana.test",
+      "outstandingBalance": 0,
+      "aiRiskScore": 20,
+      "aiRiskStatus": "Low",
+      "aiRecoverySuggestions": [
+        "Regular customer. Keep credit limit up to ₹2,000."
+      ],
+      "purchaseCount": 3,
+      "notes": ""
+    },
+    {
+      "id": "cust-1789540486386-832",
+      "storeId": "store-1789540483518-106",
+      "name": "Rajesh Kumar xa1oh",
+      "phone": "9848073080",
+      "email": "rajesh_xa1oh@kirana.test",
+      "outstandingBalance": 0,
+      "aiRiskScore": 20,
+      "aiRiskStatus": "Low",
+      "aiRecoverySuggestions": [
+        "Regular customer. Keep credit limit up to ₹2,000."
+      ],
+      "purchaseCount": 3,
+      "notes": ""
+    },
+    {
+      "id": "cust-1789538493766-389",
+      "storeId": "store-1789538493756-619",
+      "name": "Isolated Customer B ruikgy",
+      "phone": "9200000002",
+      "email": "customerb@test.com",
+      "outstandingBalance": 0,
+      "aiRiskScore": 20,
+      "aiRiskStatus": "Low",
+      "aiRecoverySuggestions": [
+        "Regular customer. Keep credit limit up to ₹2,000."
+      ],
+      "purchaseCount": 1,
+      "notes": ""
+    },
+    {
+      "id": "cust-1789538493591-535",
+      "storeId": "store-1789538493581-633",
+      "name": "Isolated Customer A ruikgy",
+      "phone": "9100000001",
+      "email": "customera@test.com",
+      "outstandingBalance": 0,
+      "aiRiskScore": 20,
+      "aiRiskStatus": "Low",
+      "aiRecoverySuggestions": [
+        "Regular customer. Keep credit limit up to ₹2,000."
+      ],
+      "purchaseCount": 1,
+      "notes": ""
+    },
+    {
+      "id": "cust-1789538467374-427",
+      "storeId": "store-1789538464591-26",
+      "name": "Rajesh Kumar is991",
+      "phone": "9859128078",
+      "email": "rajesh_is991@kirana.test",
+      "outstandingBalance": 0,
+      "aiRiskScore": 20,
+      "aiRiskStatus": "Low",
+      "aiRecoverySuggestions": [
+        "Regular customer. Keep credit limit up to ₹2,000."
+      ],
+      "purchaseCount": 3,
+      "notes": ""
+    },
+    {
+      "id": "cust-1789538351078-366",
+      "storeId": "store-1789538351068-111",
+      "name": "Isolated Customer B yy9boy",
+      "phone": "9200000002",
+      "email": "customerb@test.com",
+      "outstandingBalance": 0,
+      "aiRiskScore": 20,
+      "aiRiskStatus": "Low",
+      "aiRecoverySuggestions": [
+        "Regular customer. Keep credit limit up to ₹2,000."
+      ],
+      "purchaseCount": 1,
+      "notes": ""
+    },
+    {
+      "id": "cust-1789538350919-400",
+      "storeId": "store-1789538350892-77",
+      "name": "Isolated Customer A yy9boy",
+      "phone": "9100000001",
+      "email": "customera@test.com",
+      "outstandingBalance": 0,
+      "aiRiskScore": 20,
+      "aiRiskStatus": "Low",
+      "aiRecoverySuggestions": [
+        "Regular customer. Keep credit limit up to ₹2,000."
+      ],
+      "purchaseCount": 1,
+      "notes": ""
+    },
+    {
+      "id": "cust-1789538324451-961",
+      "storeId": "store-1789538321748-752",
+      "name": "Rajesh Kumar rq4dl",
+      "phone": "9861852389",
+      "email": "rajesh_rq4dl@kirana.test",
+      "outstandingBalance": 0,
+      "aiRiskScore": 20,
+      "aiRiskStatus": "Low",
+      "aiRecoverySuggestions": [
+        "Regular customer. Keep credit limit up to ₹2,000."
+      ],
+      "purchaseCount": 3,
+      "notes": ""
+    },
+    {
+      "id": "cust-1789373680992-330",
+      "storeId": "store-1789373677790-715",
+      "name": "Rajesh Kumar 9ql1u",
+      "phone": "9882513213",
+      "email": "rajesh_9ql1u@kirana.test",
+      "outstandingBalance": 0,
+      "aiRiskScore": 20,
+      "aiRiskStatus": "Low",
+      "aiRecoverySuggestions": [
+        "Regular customer. Keep credit limit up to ₹2,000."
+      ],
+      "purchaseCount": 3,
+      "notes": ""
+    },
+    {
+      "id": "cust-1789373553935-313",
+      "storeId": "store-1789373551084-549",
+      "name": "Rajesh Kumar 3m15i",
+      "phone": "9899991430",
+      "email": "rajesh_3m15i@kirana.test",
+      "outstandingBalance": 500,
+      "aiRiskScore": 20,
+      "aiRiskStatus": "Low",
+      "aiRecoverySuggestions": [
+        "Regular customer. Keep credit limit up to ₹2,000."
+      ],
+      "purchaseCount": 3,
+      "notes": ""
+    },
+    {
+      "id": "cust-1789373463309-407",
+      "storeId": "store-1789373460173-24",
+      "name": "Rajesh Kumar labyf",
+      "phone": "9864284152",
+      "email": "rajesh_labyf@kirana.test",
+      "outstandingBalance": 0,
+      "aiRiskScore": 20,
+      "aiRiskStatus": "Low",
+      "aiRecoverySuggestions": [
+        "Regular customer. Keep credit limit up to ₹2,000."
+      ],
+      "purchaseCount": 1,
+      "notes": ""
+    },
+    {
+      "id": "cust-1789373156997-440",
+      "storeId": "store-1789373156989-601",
+      "name": "Isolated Customer B 7ln2my",
+      "phone": "9200000002",
+      "email": "customerb@test.com",
+      "outstandingBalance": 0,
+      "aiRiskScore": 20,
+      "aiRiskStatus": "Low",
+      "aiRecoverySuggestions": [
+        "Regular customer. Keep credit limit up to ₹2,000."
+      ],
+      "purchaseCount": 1,
+      "notes": ""
+    },
+    {
+      "id": "cust-1789373156877-36",
+      "storeId": "store-1789373156868-28",
+      "name": "Isolated Customer A 7ln2my",
+      "phone": "9100000001",
+      "email": "customera@test.com",
+      "outstandingBalance": 0,
+      "aiRiskScore": 20,
+      "aiRiskStatus": "Low",
+      "aiRecoverySuggestions": [
+        "Regular customer. Keep credit limit up to ₹2,000."
+      ],
+      "purchaseCount": 1,
+      "notes": ""
+    },
+    {
+      "id": "cust-1789373111856-314",
+      "storeId": "store-1789373111841-159",
+      "name": "Isolated Customer B 8pd945",
+      "phone": "9200000002",
+      "email": "customerb@test.com",
+      "outstandingBalance": 0,
+      "aiRiskScore": 20,
+      "aiRiskStatus": "Low",
+      "aiRecoverySuggestions": [
+        "Regular customer. Keep credit limit up to ₹2,000."
+      ],
+      "purchaseCount": 1,
+      "notes": ""
+    },
+    {
+      "id": "cust-1789373111722-137",
+      "storeId": "store-1789373111693-799",
+      "name": "Isolated Customer A 8pd945",
+      "phone": "9100000001",
+      "email": "customera@test.com",
+      "outstandingBalance": 0,
+      "aiRiskScore": 20,
+      "aiRiskStatus": "Low",
+      "aiRecoverySuggestions": [
+        "Regular customer. Keep credit limit up to ₹2,000."
+      ],
+      "purchaseCount": 1,
+      "notes": ""
+    },
+    {
+      "id": "cust-1",
+      "name": "Amit Singh",
+      "phone": "+91 98765 43210",
+      "email": "amit.singh@gmail.com",
+      "outstandingBalance": 0,
+      "aiRiskScore": 12,
+      "aiRiskStatus": "Low",
+      "aiRecoverySuggestions": [
+        "Excellent payor. Offer seasonal discount.",
+        "Consider expanding high-margin snack items to this customer."
+      ],
+      "purchaseCount": 15
+    },
+    {
+      "id": "cust-2",
+      "name": "Priya Sharma",
+      "phone": "+91 91234 56789",
+      "email": "priya.sharma@hotmail.com",
+      "outstandingBalance": 1200,
+      "aiRiskScore": 38,
+      "aiRiskStatus": "Medium",
+      "aiRecoverySuggestions": [
+        "Gentle WhatsApp reminder on weekend.",
+        "Suggest partial payment option next visit."
+      ],
+      "purchaseCount": 8
+    },
+    {
+      "id": "cust-3",
+      "name": "Rahul Kumar",
+      "phone": "+91 88888 77777",
+      "email": "rahul.k@outlook.com",
+      "outstandingBalance": 450,
+      "aiRiskScore": 65,
+      "aiRiskStatus": "Medium",
+      "aiRecoverySuggestions": [
+        "Request pending payment clear before logging new udhaar.",
+        "Set strict limit of ₹500 outstanding credit limit."
+      ],
+      "purchaseCount": 4
+    },
+    {
+      "id": "cust-1",
+      "storeId": "store-suresh-primary",
+      "name": "Amit Singh",
+      "phone": "+91 98765 43210",
+      "email": "amit.singh@gmail.com",
+      "outstandingBalance": 0,
+      "aiRiskScore": 12,
+      "aiRiskStatus": "Low",
+      "aiRecoverySuggestions": [
+        "Excellent payor. Offer seasonal festival discount.",
+        "Consider expanding high-margin snack items to this customer."
+      ],
+      "purchaseCount": 15
+    },
+    {
+      "id": "cust-2",
+      "storeId": "store-suresh-primary",
+      "name": "Priya Sharma",
+      "phone": "+91 91234 56789",
+      "email": "priya.sharma@hotmail.com",
+      "outstandingBalance": 1200,
+      "aiRiskScore": 38,
+      "aiRiskStatus": "Medium",
+      "aiRecoverySuggestions": [
+        "Gentle WhatsApp reminder on weekend.",
+        "Suggest partial payment option next visit."
+      ],
+      "purchaseCount": 8
+    },
+    {
+      "id": "cust-3",
+      "storeId": "store-suresh-primary",
+      "name": "Rahul Kumar",
+      "phone": "+91 88888 77777",
+      "email": "rahul.k@outlook.com",
+      "outstandingBalance": 450,
+      "aiRiskScore": 65,
+      "aiRiskStatus": "Medium",
+      "aiRecoverySuggestions": [
+        "Request pending payment clear before logging new udhaar.",
+        "Set strict limit of ₹500 outstanding credit limit."
+      ],
+      "purchaseCount": 4
+    }
+  ],
+  "inventory": [
+    {
+      "id": "inv-1789541122065-111",
+      "storeId": "store-1789541122043-395",
+      "name": "Isolated Product B gkz3z6",
+      "sku": "SKU-B-gkz3z6",
+      "stock": 15,
+      "minStockAlert": 5,
+      "purchasePrice": 30,
+      "sellingPrice": 60,
+      "category": "Stationery",
+      "supplierName": "Wholesale Supplier",
+      "expiryDate": ""
+    },
+    {
+      "id": "inv-1789541121898-475",
+      "storeId": "store-1789541121877-746",
+      "name": "Isolated Product A gkz3z6",
+      "sku": "SKU-A-gkz3z6",
+      "stock": 20,
+      "minStockAlert": 5,
+      "purchasePrice": 50,
+      "sellingPrice": 90,
+      "category": "Groceries",
+      "supplierName": "Wholesale Supplier",
+      "expiryDate": ""
+    },
+    {
+      "id": "inv-1789541096658-20",
+      "storeId": "store-1789541091858-890",
+      "name": "Basmati Rice 5kg hrso9",
+      "sku": "RIC-HRSO9",
+      "stock": 38,
+      "minStockAlert": 5,
+      "purchasePrice": 350,
+      "sellingPrice": 480,
+      "category": "Grocery",
+      "supplierName": "Wholesale Supplier",
+      "expiryDate": ""
+    },
+    {
+      "id": "inv-1789541025612-552",
+      "storeId": "store-1789541020667-163",
+      "name": "Basmati Rice 5kg 3gm1t",
+      "sku": "RIC-3GM1T",
+      "stock": 38,
+      "minStockAlert": 5,
+      "purchasePrice": 350,
+      "sellingPrice": 480,
+      "category": "Grocery",
+      "supplierName": "Wholesale Supplier",
+      "expiryDate": ""
+    },
+    {
+      "id": "inv-1789540488540-785",
+      "storeId": "store-1789540483518-106",
+      "name": "Basmati Rice 5kg xa1oh",
+      "sku": "RIC-XA1OH",
+      "stock": 38,
+      "minStockAlert": 5,
+      "purchasePrice": 350,
+      "sellingPrice": 480,
+      "category": "Grocery",
+      "supplierName": "Wholesale Supplier",
+      "expiryDate": ""
+    },
+    {
+      "id": "inv-1789538493773-126",
+      "storeId": "store-1789538493756-619",
+      "name": "Isolated Product B ruikgy",
+      "sku": "SKU-B-ruikgy",
+      "stock": 15,
+      "minStockAlert": 5,
+      "purchasePrice": 30,
+      "sellingPrice": 60,
+      "category": "Stationery",
+      "supplierName": "Wholesale Supplier",
+      "expiryDate": ""
+    },
+    {
+      "id": "inv-1789538493600-351",
+      "storeId": "store-1789538493581-633",
+      "name": "Isolated Product A ruikgy",
+      "sku": "SKU-A-ruikgy",
+      "stock": 20,
+      "minStockAlert": 5,
+      "purchasePrice": 50,
+      "sellingPrice": 90,
+      "category": "Groceries",
+      "supplierName": "Wholesale Supplier",
+      "expiryDate": ""
+    },
+    {
+      "id": "inv-1789538469529-359",
+      "storeId": "store-1789538464591-26",
+      "name": "Basmati Rice 5kg is991",
+      "sku": "RIC-IS991",
+      "stock": 38,
+      "minStockAlert": 5,
+      "purchasePrice": 350,
+      "sellingPrice": 480,
+      "category": "Grocery",
+      "supplierName": "Wholesale Supplier",
+      "expiryDate": ""
+    },
+    {
+      "id": "inv-1789538351086-722",
+      "storeId": "store-1789538351068-111",
+      "name": "Isolated Product B yy9boy",
+      "sku": "SKU-B-yy9boy",
+      "stock": 15,
+      "minStockAlert": 5,
+      "purchasePrice": 30,
+      "sellingPrice": 60,
+      "category": "Stationery",
+      "supplierName": "Wholesale Supplier",
+      "expiryDate": ""
+    },
+    {
+      "id": "inv-1789538350925-624",
+      "storeId": "store-1789538350892-77",
+      "name": "Isolated Product A yy9boy",
+      "sku": "SKU-A-yy9boy",
+      "stock": 20,
+      "minStockAlert": 5,
+      "purchasePrice": 50,
+      "sellingPrice": 90,
+      "category": "Groceries",
+      "supplierName": "Wholesale Supplier",
+      "expiryDate": ""
+    },
+    {
+      "id": "inv-1789538326470-429",
+      "storeId": "store-1789538321748-752",
+      "name": "Basmati Rice 5kg rq4dl",
+      "sku": "RIC-RQ4DL",
+      "stock": 38,
+      "minStockAlert": 5,
+      "purchasePrice": 350,
+      "sellingPrice": 480,
+      "category": "Grocery",
+      "supplierName": "Wholesale Supplier",
+      "expiryDate": ""
+    },
+    {
+      "id": "inv-1789373683071-372",
+      "storeId": "store-1789373677790-715",
+      "name": "Basmati Rice 5kg 9ql1u",
+      "sku": "RIC-9QL1U",
+      "stock": 38,
+      "minStockAlert": 5,
+      "purchasePrice": 350,
+      "sellingPrice": 480,
+      "category": "Grocery",
+      "supplierName": "Wholesale Supplier",
+      "expiryDate": ""
+    },
+    {
+      "id": "inv-1789373556037-344",
+      "storeId": "store-1789373551084-549",
+      "name": "Basmati Rice 5kg 3m15i",
+      "sku": "RIC-3M15I",
+      "stock": 38,
+      "minStockAlert": 5,
+      "purchasePrice": 350,
+      "sellingPrice": 480,
+      "category": "Grocery",
+      "supplierName": "Wholesale Supplier",
+      "expiryDate": ""
+    },
+    {
+      "id": "inv-1789373465312-760",
+      "storeId": "store-1789373460173-24",
+      "name": "Basmati Rice 5kg labyf",
+      "sku": "RIC-LABYF",
+      "stock": 40,
+      "minStockAlert": 5,
+      "purchasePrice": 350,
+      "sellingPrice": 480,
+      "category": "Grocery",
+      "supplierName": "Wholesale Supplier",
+      "expiryDate": ""
+    },
+    {
+      "id": "inv-1789373157003-301",
+      "storeId": "store-1789373156989-601",
+      "name": "Isolated Product B 7ln2my",
+      "sku": "SKU-B-7ln2my",
+      "stock": 15,
+      "minStockAlert": 5,
+      "purchasePrice": 30,
+      "sellingPrice": 60,
+      "category": "Stationery",
+      "supplierName": "Wholesale Supplier",
+      "expiryDate": ""
+    },
+    {
+      "id": "inv-1789373156884-780",
+      "storeId": "store-1789373156868-28",
+      "name": "Isolated Product A 7ln2my",
+      "sku": "SKU-A-7ln2my",
+      "stock": 20,
+      "minStockAlert": 5,
+      "purchasePrice": 50,
+      "sellingPrice": 90,
+      "category": "Groceries",
+      "supplierName": "Wholesale Supplier",
+      "expiryDate": ""
+    },
+    {
+      "id": "inv-1789112299830-562",
+      "storeId": "store-user-suresh-primary",
+      "name": "Basmati Rice 5kg",
+      "sku": "SKU-9830",
+      "stock": 20,
+      "minStockAlert": 5,
+      "purchasePrice": 0,
+      "sellingPrice": 450,
+      "category": "Grains",
+      "supplierName": "Wholesale Supplier",
+      "expiryDate": ""
+    },
+    {
+      "id": "inv-1",
+      "name": "Aashirvaad Atta 5kg",
+      "sku": "AA-5K",
+      "stock": 12,
+      "minStockAlert": 15,
+      "purchasePrice": 240,
+      "sellingPrice": 270,
+      "category": "Grocery",
+      "supplierName": "ITC Distributor",
+      "expiryDate": "2026-12-31"
+    },
+    {
+      "id": "inv-2",
+      "name": "Tata Salt 1kg",
+      "sku": "TS-1K",
+      "stock": 0,
+      "minStockAlert": 10,
+      "purchasePrice": 21,
+      "sellingPrice": 25,
+      "category": "Grocery",
+      "supplierName": "Tata Foods Ltd",
+      "expiryDate": "2027-04-15"
+    },
+    {
+      "id": "inv-3",
+      "name": "Maggi Noodles",
+      "sku": "MN-70",
+      "stock": 0,
+      "minStockAlert": 20,
+      "purchasePrice": 11,
+      "sellingPrice": 14,
+      "category": "Packaged Foods",
+      "supplierName": "Nestle Distribution",
+      "expiryDate": "2026-11-20"
+    },
+    {
+      "id": "inv-4",
+      "name": "Amul Butter 100g",
+      "sku": "AB-100",
+      "stock": 24,
+      "minStockAlert": 8,
+      "purchasePrice": 48,
+      "sellingPrice": 55,
+      "category": "Dairy",
+      "supplierName": "Amul Distributor",
+      "expiryDate": "2026-07-15"
+    },
+    {
+      "id": "inv-5",
+      "name": "Fortune Mustard Oil 1L",
+      "sku": "FMO-1",
+      "stock": 35,
+      "minStockAlert": 10,
+      "purchasePrice": 150,
+      "sellingPrice": 180,
+      "category": "Oils",
+      "supplierName": "Adani Wilmar Ltd",
+      "expiryDate": "2026-10-10"
+    },
+    {
+      "id": "inv-1",
+      "storeId": "store-suresh-primary",
+      "name": "Aashirvaad Atta 5kg",
+      "sku": "AA-5K",
+      "stock": 12,
+      "minStockAlert": 15,
+      "purchasePrice": 240,
+      "sellingPrice": 270,
+      "category": "Grocery",
+      "supplierName": "ITC Distributor",
+      "expiryDate": "2026-12-31"
+    },
+    {
+      "id": "inv-2",
+      "storeId": "store-suresh-primary",
+      "name": "Tata Salt 1kg",
+      "sku": "TS-1K",
+      "stock": 3,
+      "minStockAlert": 10,
+      "purchasePrice": 21,
+      "sellingPrice": 25,
+      "category": "Grocery",
+      "supplierName": "Tata Foods Ltd",
+      "expiryDate": "2027-04-15"
+    },
+    {
+      "id": "inv-3",
+      "storeId": "store-suresh-primary",
+      "name": "Maggi Noodles",
+      "sku": "MN-70",
+      "stock": 0,
+      "minStockAlert": 20,
+      "purchasePrice": 11,
+      "sellingPrice": 14,
+      "category": "Packaged Foods",
+      "supplierName": "Nestle Distribution",
+      "expiryDate": "2026-11-20"
+    },
+    {
+      "id": "inv-4",
+      "storeId": "store-suresh-primary",
+      "name": "Amul Butter 100g",
+      "sku": "AB-100",
+      "stock": 24,
+      "minStockAlert": 8,
+      "purchasePrice": 48,
+      "sellingPrice": 55,
+      "category": "Dairy",
+      "supplierName": "Amul Distributor",
+      "expiryDate": "2026-07-15"
+    },
+    {
+      "id": "inv-5",
+      "storeId": "store-suresh-primary",
+      "name": "Fortune Mustard Oil 1L",
+      "sku": "FMO-1",
+      "stock": 35,
+      "minStockAlert": 10,
+      "purchasePrice": 150,
+      "sellingPrice": 180,
+      "category": "Oils",
+      "supplierName": "Adani Wilmar Ltd",
+      "expiryDate": "2026-10-10"
+    }
+  ],
+  "udhaar": [
+    {
+      "id": "u-1789541098821-439",
+      "storeId": "store-1789541091858-890",
+      "userId": "user-1789541091857-87",
+      "customerId": "cust-1789541094483-798",
+      "customerName": "Rajesh Kumar hrso9",
+      "amount": 0,
+      "totalAmount": 500,
+      "pendingAmount": 500,
+      "status": "settled",
+      "dueDate": "2026-10-01T06:44:58.821Z",
+      "dateCreated": "2026-09-16T06:44:58.821Z",
+      "paymentHistory": [
+        {
+          "date": "2026-09-16T06:44:59.945Z",
+          "amount": 500,
+          "method": "cash",
+          "notes": "",
+          "receivedBy": "QA Tester 0i8yw2d"
+        }
+      ]
+    },
+    {
+      "id": "u-1789541027728-970",
+      "storeId": "store-1789541020667-163",
+      "userId": "user-1789541020664-241",
+      "customerId": "cust-1789541023520-430",
+      "customerName": "Rajesh Kumar 3gm1t",
+      "amount": 0,
+      "totalAmount": 500,
+      "pendingAmount": 500,
+      "status": "settled",
+      "dueDate": "2026-10-01T06:43:47.728Z",
+      "dateCreated": "2026-09-16T06:43:47.728Z",
+      "paymentHistory": [
+        {
+          "date": "2026-09-16T06:43:48.849Z",
+          "amount": 500,
+          "method": "cash",
+          "notes": "",
+          "receivedBy": "QA Tester ddx2xkm"
+        }
+      ]
+    },
+    {
+      "id": "u-1789540490517-230",
+      "storeId": "store-1789540483518-106",
+      "userId": "user-1789540483517-474",
+      "customerId": "cust-1789540486386-832",
+      "customerName": "Rajesh Kumar xa1oh",
+      "amount": 0,
+      "totalAmount": 500,
+      "pendingAmount": 500,
+      "status": "settled",
+      "dueDate": "2026-10-01T06:34:50.517Z",
+      "dateCreated": "2026-09-16T06:34:50.517Z",
+      "paymentHistory": [
+        {
+          "date": "2026-09-16T06:34:51.554Z",
+          "amount": 500,
+          "method": "cash",
+          "notes": "",
+          "receivedBy": "QA Tester udnxikm"
+        }
+      ]
+    },
+    {
+      "id": "u-1789538471429-326",
+      "storeId": "store-1789538464591-26",
+      "userId": "user-1789538464589-436",
+      "customerId": "cust-1789538467374-427",
+      "customerName": "Rajesh Kumar is991",
+      "amount": 0,
+      "totalAmount": 500,
+      "pendingAmount": 500,
+      "status": "settled",
+      "dueDate": "2026-10-01T06:01:11.429Z",
+      "dateCreated": "2026-09-16T06:01:11.429Z",
+      "paymentHistory": [
+        {
+          "date": "2026-09-16T06:01:12.535Z",
+          "amount": 500,
+          "method": "cash",
+          "notes": "",
+          "receivedBy": "QA Tester sjidzmw"
+        }
+      ]
+    },
+    {
+      "id": "u-1789538328640-951",
+      "storeId": "store-1789538321748-752",
+      "userId": "user-1789538321747-673",
+      "customerId": "cust-1789538324451-961",
+      "customerName": "Rajesh Kumar rq4dl",
+      "amount": 0,
+      "totalAmount": 500,
+      "pendingAmount": 500,
+      "status": "settled",
+      "dueDate": "2026-10-01T05:58:48.640Z",
+      "dateCreated": "2026-09-16T05:58:48.640Z",
+      "paymentHistory": [
+        {
+          "date": "2026-09-16T05:58:49.934Z",
+          "amount": 500,
+          "method": "cash",
+          "notes": "",
+          "receivedBy": "QA Tester nxxcts9"
+        }
+      ]
+    },
+    {
+      "id": "u-1789373685071-886",
+      "storeId": "store-1789373677790-715",
+      "userId": "user-1789373677789-231",
+      "customerId": "cust-1789373680992-330",
+      "customerName": "Rajesh Kumar 9ql1u",
+      "amount": 0,
+      "totalAmount": 500,
+      "pendingAmount": 500,
+      "status": "settled",
+      "dueDate": "2026-09-29T08:14:45.071Z",
+      "dateCreated": "2026-09-14T08:14:45.071Z",
+      "paymentHistory": [
+        {
+          "date": "2026-09-14T08:14:46.284Z",
+          "amount": 500,
+          "method": "cash",
+          "notes": "",
+          "receivedBy": "QA Tester u7777xn"
+        }
+      ]
+    },
+    {
+      "id": "u-1789373558148-281",
+      "customerId": "cust-1789373553935-313",
+      "customerName": "Rajesh Kumar 3m15i",
+      "amount": 500,
+      "status": "pending",
+      "dueDate": "2026-09-29T08:12:38.148Z",
+      "dateCreated": "2026-09-14T08:12:38.148Z",
+      "paymentHistory": []
+    },
+    {
+      "id": "u-1",
+      "customerId": "cust-2",
+      "customerName": "Priya Sharma",
+      "amount": 1200,
+      "status": "pending",
+      "dueDate": "2026-06-25T00:00:00Z",
+      "dateCreated": "2026-06-09T14:45:00Z",
+      "paymentHistory": []
+    },
+    {
+      "id": "u-2",
+      "customerId": "cust-3",
+      "customerName": "Rahul Kumar",
+      "amount": 450,
+      "status": "pending",
+      "dueDate": "2026-06-25T00:00:00Z",
+      "dateCreated": "2026-06-10T08:00:00Z",
+      "paymentHistory": []
+    },
+    {
+      "id": "u-1",
+      "storeId": "store-suresh-primary",
+      "customerId": "cust-2",
+      "customerName": "Priya Sharma",
+      "amount": 1200,
+      "status": "pending",
+      "dueDate": "2026-06-25T00:00:00.000Z",
+      "dateCreated": "2026-06-09T14:45:00.000Z",
+      "paymentHistory": []
+    },
+    {
+      "id": "u-2",
+      "storeId": "store-suresh-primary",
+      "customerId": "cust-3",
+      "customerName": "Rahul Kumar",
+      "amount": 450,
+      "status": "pending",
+      "dueDate": "2026-06-25T00:00:00.000Z",
+      "dateCreated": "2026-06-10T08:00:00.000Z",
+      "paymentHistory": []
+    }
+  ],
+  "chatHistory": [
+    {
+      "id": "c-1",
+      "sender": "assistant",
+      "text": "Hello Suresh! Welcome to LeadgerX Business Coach. I've analyzed your sales today. Your sales are pacing nicely! Ask me anything about increasing your profitability or restock requirements.",
+      "timestamp": "2026-06-10T07:34:16Z"
+    }
+  ],
+  "stores": [
+    {
+      "id": "store-user-suresh-primary",
+      "name": "Suresh Kirana Store",
+      "userId": "user-suresh",
+      "address": "Main Market, Sector 4, New Delhi",
+      "gstNumber": "08AAAAA1111A1Z1",
+      "type": "kirana"
+    },
+    {
+      "id": "store-1788684212570-893",
+      "name": "Ramesh Kirana Mart",
+      "type": "kirana",
+      "ownerId": "user-1788684212569-911",
+      "userId": "user-1788684212569-911",
+      "address": "Main Bazaar, Sector 4",
+      "gstin": "",
+      "createdAt": "2026-09-06T08:43:32.570Z"
+    },
+    {
+      "id": "store-1788689076884-253",
+      "name": "Test Supermarket",
+      "type": "kirana",
+      "ownerId": "user-1788689076884-68",
+      "userId": "user-1788689076884-68",
+      "address": "Main Bazaar, Sector 4",
+      "gstin": "",
+      "createdAt": "2026-09-06T10:04:36.884Z"
+    },
+    {
+      "id": "store-suresh-primary",
+      "name": "Suresh Kirana Store",
+      "type": "kirana",
+      "ownerId": "user-suresh",
+      "userId": "user-suresh",
+      "address": "Main Bazaar, Sector 4, Gandhinagar",
+      "gstin": "07AAAAA0000A1Z5",
+      "createdAt": "2026-06-01T00:00:00.000Z"
+    },
+    {
+      "id": "store-1789373109527-659",
+      "name": "QA Store poga0j3",
+      "type": "kirana",
+      "ownerId": "user-1789373109526-904",
+      "userId": "user-1789373109526-904",
+      "address": "Main Bazaar, Sector 4",
+      "gstin": "",
+      "createdAt": "2026-09-14T08:05:09.527Z"
+    },
+    {
+      "id": "store-1789373109646-126",
+      "name": "QA Store hehzs82",
+      "type": "kirana",
+      "ownerId": "user-1789373109646-736",
+      "userId": "user-1789373109646-736",
+      "address": "Main Bazaar, Sector 4",
+      "gstin": "",
+      "createdAt": "2026-09-14T08:05:09.646Z"
+    },
+    {
+      "id": "store-1789373111693-799",
+      "name": "QA Store h3sc1z2",
+      "type": "kirana",
+      "ownerId": "user-1789373111692-300",
+      "userId": "user-1789373111692-300",
+      "address": "Main Bazaar, Sector 4",
+      "gstin": "",
+      "createdAt": "2026-09-14T08:05:11.693Z"
+    },
+    {
+      "id": "store-1789373111841-159",
+      "name": "QA Store 1qu6goq",
+      "type": "kirana",
+      "ownerId": "user-1789373111840-63",
+      "userId": "user-1789373111840-63",
+      "address": "Main Bazaar, Sector 4",
+      "gstin": "",
+      "createdAt": "2026-09-14T08:05:11.841Z"
+    },
+    {
+      "id": "store-1789373156271-854",
+      "name": "QA Store kn9saom",
+      "type": "kirana",
+      "ownerId": "user-1789373156270-708",
+      "userId": "user-1789373156270-708",
+      "address": "Main Bazaar, Sector 4",
+      "gstin": "",
+      "createdAt": "2026-09-14T08:05:56.271Z"
+    },
+    {
+      "id": "store-1789373156408-753",
+      "name": "QA Store 8jidlht",
+      "type": "kirana",
+      "ownerId": "user-1789373156407-199",
+      "userId": "user-1789373156407-199",
+      "address": "Main Bazaar, Sector 4",
+      "gstin": "",
+      "createdAt": "2026-09-14T08:05:56.408Z"
+    },
+    {
+      "id": "store-1789373156868-28",
+      "name": "QA Store dou7yja",
+      "type": "kirana",
+      "ownerId": "user-1789373156867-237",
+      "userId": "user-1789373156867-237",
+      "address": "Main Bazaar, Sector 4",
+      "gstin": "",
+      "createdAt": "2026-09-14T08:05:56.868Z"
+    },
+    {
+      "id": "store-1789373156989-601",
+      "name": "QA Store esk7i1p",
+      "type": "kirana",
+      "ownerId": "user-1789373156988-253",
+      "userId": "user-1789373156988-253",
+      "address": "Main Bazaar, Sector 4",
+      "gstin": "",
+      "createdAt": "2026-09-14T08:05:56.989Z"
+    },
+    {
+      "id": "store-1789373173171-918",
+      "name": "QA Store fm2lool",
+      "type": "kirana",
+      "ownerId": "user-1789373173170-981",
+      "userId": "user-1789373173170-981",
+      "address": "Main Bazaar, Sector 4",
+      "gstin": "",
+      "createdAt": "2026-09-14T08:06:13.171Z"
+    },
+    {
+      "id": "store-1789373182271-559",
+      "name": "QA Store c5e5nc8",
+      "type": "kirana",
+      "ownerId": "user-1789373182271-763",
+      "userId": "user-1789373182271-763",
+      "address": "Main Bazaar, Sector 4",
+      "gstin": "",
+      "createdAt": "2026-09-14T08:06:22.271Z"
+    },
+    {
+      "id": "store-1789373199604-457",
+      "name": "QA Store 8qfqvpn",
+      "type": "kirana",
+      "ownerId": "user-1789373199603-374",
+      "userId": "user-1789373199603-374",
+      "address": "Main Bazaar, Sector 4",
+      "gstin": "",
+      "createdAt": "2026-09-14T08:06:39.604Z"
+    },
+    {
+      "id": "store-1789373324884-889",
+      "name": "QA Store zl4be43",
+      "type": "kirana",
+      "ownerId": "user-1789373324883-145",
+      "userId": "user-1789373324883-145",
+      "address": "Main Bazaar, Sector 4",
+      "gstin": "",
+      "createdAt": "2026-09-14T08:08:44.884Z"
+    },
+    {
+      "id": "store-1789373360398-418",
+      "name": "QA Store 57phdfv",
+      "type": "kirana",
+      "ownerId": "user-1789373360397-427",
+      "userId": "user-1789373360397-427",
+      "address": "Main Bazaar, Sector 4",
+      "gstin": "",
+      "createdAt": "2026-09-14T08:09:20.398Z"
+    },
+    {
+      "id": "store-1789373376300-714",
+      "name": "QA Store b5m2tyz",
+      "type": "kirana",
+      "ownerId": "user-1789373376299-381",
+      "userId": "user-1789373376299-381",
+      "address": "Main Bazaar, Sector 4",
+      "gstin": "",
+      "createdAt": "2026-09-14T08:09:36.300Z"
+    },
+    {
+      "id": "store-1789373440478-510",
+      "name": "QA Store et9g849",
+      "type": "kirana",
+      "ownerId": "user-1789373440477-684",
+      "userId": "user-1789373440477-684",
+      "address": "Main Bazaar, Sector 4",
+      "gstin": "",
+      "createdAt": "2026-09-14T08:10:40.478Z"
+    },
+    {
+      "id": "store-1789373460173-24",
+      "name": "QA Store s6sfjk0",
+      "type": "kirana",
+      "ownerId": "user-1789373460173-262",
+      "userId": "user-1789373460173-262",
+      "address": "Main Bazaar, Sector 4",
+      "gstin": "",
+      "createdAt": "2026-09-14T08:11:00.173Z"
+    },
+    {
+      "id": "store-1789373551084-549",
+      "name": "QA Store unkjn7r",
+      "type": "kirana",
+      "ownerId": "user-1789373551083-997",
+      "userId": "user-1789373551083-997",
+      "address": "Main Bazaar, Sector 4",
+      "gstin": "",
+      "createdAt": "2026-09-14T08:12:31.084Z"
+    },
+    {
+      "id": "store-1789373677790-715",
+      "name": "QA Store u7777xn",
+      "type": "kirana",
+      "ownerId": "user-1789373677789-231",
+      "userId": "user-1789373677789-231",
+      "address": "Main Bazaar, Sector 4",
+      "gstin": "",
+      "createdAt": "2026-09-14T08:14:37.790Z"
+    },
+    {
+      "id": "store-1789374974975-547",
+      "name": "QA Store 9m8ya8w",
+      "type": "kirana",
+      "ownerId": "user-1789374974972-892",
+      "userId": "user-1789374974972-892",
+      "address": "Main Bazaar, Sector 4",
+      "gstin": "",
+      "createdAt": "2026-09-14T08:36:14.975Z"
+    },
+    {
+      "id": "store-1789374975060-150",
+      "name": "QA Store 9e4orne",
+      "type": "kirana",
+      "ownerId": "user-1789374975058-726",
+      "userId": "user-1789374975058-726",
+      "address": "Main Bazaar, Sector 4",
+      "gstin": "",
+      "createdAt": "2026-09-14T08:36:15.060Z"
+    },
+    {
+      "id": "store-1789375229731-636",
+      "name": "QA Store 88r8u4d",
+      "type": "kirana",
+      "ownerId": "user-1789375229727-247",
+      "userId": "user-1789375229727-247",
+      "address": "Main Bazaar, Sector 4",
+      "gstin": "",
+      "createdAt": "2026-09-14T08:40:29.731Z"
+    },
+    {
+      "id": "store-1789375229815-251",
+      "name": "QA Store ivm7ubt",
+      "type": "kirana",
+      "ownerId": "user-1789375229813-314",
+      "userId": "user-1789375229813-314",
+      "address": "Main Bazaar, Sector 4",
+      "gstin": "",
+      "createdAt": "2026-09-14T08:40:29.815Z"
+    },
+    {
+      "id": "store-1789537206067-979",
+      "name": "QA Store mzvpct4",
+      "type": "kirana",
+      "ownerId": "user-1789537206066-837",
+      "userId": "user-1789537206066-837",
+      "address": "Main Bazaar, Sector 4",
+      "gstin": "",
+      "createdAt": "2026-09-16T05:40:06.067Z"
+    },
+    {
+      "id": "store-1789537217010-90",
+      "name": "QA Store m3asrw4",
+      "type": "kirana",
+      "ownerId": "user-1789537217009-106",
+      "userId": "user-1789537217009-106",
+      "address": "Main Bazaar, Sector 4",
+      "gstin": "",
+      "createdAt": "2026-09-16T05:40:17.010Z"
+    },
+    {
+      "id": "store-1789537217127-110",
+      "name": "QA Store g2wk2an",
+      "type": "kirana",
+      "ownerId": "user-1789537217126-960",
+      "userId": "user-1789537217126-960",
+      "address": "Main Bazaar, Sector 4",
+      "gstin": "",
+      "createdAt": "2026-09-16T05:40:17.127Z"
+    },
+    {
+      "id": "store-1789538187498-899",
+      "name": "QA Store 4z594o0",
+      "type": "kirana",
+      "ownerId": "user-1789538187497-592",
+      "userId": "user-1789538187497-592",
+      "address": "Main Bazaar, Sector 4",
+      "gstin": "",
+      "createdAt": "2026-09-16T05:56:27.498Z"
+    },
+    {
+      "id": "store-1789538213884-266",
+      "name": "QA Store 27heyvf",
+      "type": "kirana",
+      "ownerId": "user-1789538213883-728",
+      "userId": "user-1789538213883-728",
+      "address": "Main Bazaar, Sector 4",
+      "gstin": "",
+      "createdAt": "2026-09-16T05:56:53.884Z"
+    },
+    {
+      "id": "store-1789538214009-564",
+      "name": "QA Store or3edjp",
+      "type": "kirana",
+      "ownerId": "user-1789538214008-548",
+      "userId": "user-1789538214008-548",
+      "address": "Main Bazaar, Sector 4",
+      "gstin": "",
+      "createdAt": "2026-09-16T05:56:54.009Z"
+    },
+    {
+      "id": "store-1789538295796-933",
+      "name": "QA Store b5xd90t",
+      "type": "kirana",
+      "ownerId": "user-1789538295795-669",
+      "userId": "user-1789538295795-669",
+      "address": "Main Bazaar, Sector 4",
+      "gstin": "",
+      "createdAt": "2026-09-16T05:58:15.796Z"
+    },
+    {
+      "id": "store-1789538304510-185",
+      "name": "QA Store 9viawr8",
+      "type": "kirana",
+      "ownerId": "user-1789538304508-396",
+      "userId": "user-1789538304508-396",
+      "address": "Main Bazaar, Sector 4",
+      "gstin": "",
+      "createdAt": "2026-09-16T05:58:24.510Z"
+    },
+    {
+      "id": "store-1789538313491-556",
+      "name": "QA Store 5ttod69",
+      "type": "kirana",
+      "ownerId": "user-1789538313491-584",
+      "userId": "user-1789538313491-584",
+      "address": "Main Bazaar, Sector 4",
+      "gstin": "",
+      "createdAt": "2026-09-16T05:58:33.491Z"
+    },
+    {
+      "id": "store-1789538321748-752",
+      "name": "QA Store nxxcts9",
+      "type": "kirana",
+      "ownerId": "user-1789538321747-673",
+      "userId": "user-1789538321747-673",
+      "address": "Main Bazaar, Sector 4",
+      "gstin": "",
+      "createdAt": "2026-09-16T05:58:41.748Z"
+    },
+    {
+      "id": "store-1789538337691-289",
+      "name": "QA Store jerc2wb",
+      "type": "kirana",
+      "ownerId": "user-1789538337686-536",
+      "userId": "user-1789538337686-536",
+      "address": "Main Bazaar, Sector 4",
+      "gstin": "",
+      "createdAt": "2026-09-16T05:58:57.691Z"
+    },
+    {
+      "id": "store-1789538345217-835",
+      "name": "QA Store 9gn18jc",
+      "type": "kirana",
+      "ownerId": "user-1789538345213-940",
+      "userId": "user-1789538345213-940",
+      "address": "Main Bazaar, Sector 4",
+      "gstin": "",
+      "createdAt": "2026-09-16T05:59:05.217Z"
+    },
+    {
+      "id": "store-1789538350392-392",
+      "name": "QA Store 3wl70sz",
+      "type": "kirana",
+      "ownerId": "user-1789538350391-161",
+      "userId": "user-1789538350391-161",
+      "address": "Main Bazaar, Sector 4",
+      "gstin": "",
+      "createdAt": "2026-09-16T05:59:10.392Z"
+    },
+    {
+      "id": "store-1789538350501-972",
+      "name": "QA Store jgj8tzq",
+      "type": "kirana",
+      "ownerId": "user-1789538350500-992",
+      "userId": "user-1789538350500-992",
+      "address": "Main Bazaar, Sector 4",
+      "gstin": "",
+      "createdAt": "2026-09-16T05:59:10.501Z"
+    },
+    {
+      "id": "store-1789538350892-77",
+      "name": "QA Store vui4kf6",
+      "type": "kirana",
+      "ownerId": "user-1789538350891-93",
+      "userId": "user-1789538350891-93",
+      "address": "Main Bazaar, Sector 4",
+      "gstin": "",
+      "createdAt": "2026-09-16T05:59:10.892Z"
+    },
+    {
+      "id": "store-1789538351068-111",
+      "name": "QA Store cd2101u",
+      "type": "kirana",
+      "ownerId": "user-1789538351066-173",
+      "userId": "user-1789538351066-173",
+      "address": "Main Bazaar, Sector 4",
+      "gstin": "",
+      "createdAt": "2026-09-16T05:59:11.068Z"
+    },
+    {
+      "id": "store-1789538439834-582",
+      "name": "QA Store v45cqwj",
+      "type": "kirana",
+      "ownerId": "user-1789538439832-605",
+      "userId": "user-1789538439832-605",
+      "address": "Main Bazaar, Sector 4",
+      "gstin": "",
+      "createdAt": "2026-09-16T06:00:39.834Z"
+    },
+    {
+      "id": "store-1789538446674-215",
+      "name": "QA Store nbsv0dv",
+      "type": "kirana",
+      "ownerId": "user-1789538446673-467",
+      "userId": "user-1789538446673-467",
+      "address": "Main Bazaar, Sector 4",
+      "gstin": "",
+      "createdAt": "2026-09-16T06:00:46.674Z"
+    },
+    {
+      "id": "store-1789538455858-560",
+      "name": "QA Store dwkf0he",
+      "type": "kirana",
+      "ownerId": "user-1789538455857-807",
+      "userId": "user-1789538455857-807",
+      "address": "Main Bazaar, Sector 4",
+      "gstin": "",
+      "createdAt": "2026-09-16T06:00:55.858Z"
+    },
+    {
+      "id": "store-1789538464591-26",
+      "name": "QA Store sjidzmw",
+      "type": "kirana",
+      "ownerId": "user-1789538464589-436",
+      "userId": "user-1789538464589-436",
+      "address": "Main Bazaar, Sector 4",
+      "gstin": "",
+      "createdAt": "2026-09-16T06:01:04.591Z"
+    },
+    {
+      "id": "store-1789538480312-795",
+      "name": "QA Store lq7csg3",
+      "type": "kirana",
+      "ownerId": "user-1789538480311-131",
+      "userId": "user-1789538480311-131",
+      "address": "Main Bazaar, Sector 4",
+      "gstin": "",
+      "createdAt": "2026-09-16T06:01:20.312Z"
+    },
+    {
+      "id": "store-1789538487649-219",
+      "name": "QA Store 8kku91v",
+      "type": "kirana",
+      "ownerId": "user-1789538487641-768",
+      "userId": "user-1789538487641-768",
+      "address": "Main Bazaar, Sector 4",
+      "gstin": "",
+      "createdAt": "2026-09-16T06:01:27.649Z"
+    },
+    {
+      "id": "store-1789538493076-526",
+      "name": "QA Store 76oqteh",
+      "type": "kirana",
+      "ownerId": "user-1789538493074-163",
+      "userId": "user-1789538493074-163",
+      "address": "Main Bazaar, Sector 4",
+      "gstin": "",
+      "createdAt": "2026-09-16T06:01:33.076Z"
+    },
+    {
+      "id": "store-1789538493187-269",
+      "name": "QA Store 1tiqpx3",
+      "type": "kirana",
+      "ownerId": "user-1789538493186-389",
+      "userId": "user-1789538493186-389",
+      "address": "Main Bazaar, Sector 4",
+      "gstin": "",
+      "createdAt": "2026-09-16T06:01:33.187Z"
+    },
+    {
+      "id": "store-1789538493581-633",
+      "name": "QA Store 0fysdw7",
+      "type": "kirana",
+      "ownerId": "user-1789538493579-901",
+      "userId": "user-1789538493579-901",
+      "address": "Main Bazaar, Sector 4",
+      "gstin": "",
+      "createdAt": "2026-09-16T06:01:33.581Z"
+    },
+    {
+      "id": "store-1789538493756-619",
+      "name": "QA Store l8bocr4",
+      "type": "kirana",
+      "ownerId": "user-1789538493755-330",
+      "userId": "user-1789538493755-330",
+      "address": "Main Bazaar, Sector 4",
+      "gstin": "",
+      "createdAt": "2026-09-16T06:01:33.756Z"
+    },
+    {
+      "id": "store-1789540483518-106",
+      "name": "QA Store udnxikm",
+      "type": "kirana",
+      "ownerId": "user-1789540483517-474",
+      "userId": "user-1789540483517-474",
+      "address": "Main Bazaar, Sector 4",
+      "gstin": "",
+      "createdAt": "2026-09-16T06:34:43.518Z"
+    },
+    {
+      "id": "store-1789541020667-163",
+      "name": "QA Store ddx2xkm",
+      "type": "kirana",
+      "ownerId": "user-1789541020664-241",
+      "userId": "user-1789541020664-241",
+      "address": "Main Bazaar, Sector 4",
+      "gstin": "",
+      "createdAt": "2026-09-16T06:43:40.667Z"
+    },
+    {
+      "id": "store-1789541069059-964",
+      "name": "QA Store qguzk6b",
+      "type": "kirana",
+      "ownerId": "user-1789541069058-474",
+      "userId": "user-1789541069058-474",
+      "address": "Main Bazaar, Sector 4",
+      "gstin": "",
+      "createdAt": "2026-09-16T06:44:29.059Z"
+    },
+    {
+      "id": "store-1789541074161-8",
+      "name": "QA Store m0pbyo5",
+      "type": "kirana",
+      "ownerId": "user-1789541074160-755",
+      "userId": "user-1789541074160-755",
+      "address": "Main Bazaar, Sector 4",
+      "gstin": "",
+      "createdAt": "2026-09-16T06:44:34.161Z"
+    },
+    {
+      "id": "store-1789541082970-543",
+      "name": "QA Store vfa5dnn",
+      "type": "kirana",
+      "ownerId": "user-1789541082968-330",
+      "userId": "user-1789541082968-330",
+      "address": "Main Bazaar, Sector 4",
+      "gstin": "",
+      "createdAt": "2026-09-16T06:44:42.970Z"
+    },
+    {
+      "id": "store-1789541091858-890",
+      "name": "QA Store 0i8yw2d",
+      "type": "kirana",
+      "ownerId": "user-1789541091857-87",
+      "userId": "user-1789541091857-87",
+      "address": "Main Bazaar, Sector 4",
+      "gstin": "",
+      "createdAt": "2026-09-16T06:44:51.858Z"
+    },
+    {
+      "id": "store-1789541108479-510",
+      "name": "QA Store 9v17ggm",
+      "type": "kirana",
+      "ownerId": "user-1789541108476-924",
+      "userId": "user-1789541108476-924",
+      "address": "Main Bazaar, Sector 4",
+      "gstin": "",
+      "createdAt": "2026-09-16T06:45:08.479Z"
+    },
+    {
+      "id": "store-1789541115947-398",
+      "name": "QA Store lcwxwhp",
+      "type": "kirana",
+      "ownerId": "user-1789541115945-880",
+      "userId": "user-1789541115945-880",
+      "address": "Main Bazaar, Sector 4",
+      "gstin": "",
+      "createdAt": "2026-09-16T06:45:15.947Z"
+    },
+    {
+      "id": "store-1789541121364-534",
+      "name": "QA Store a3oxuvg",
+      "type": "kirana",
+      "ownerId": "user-1789541121362-35",
+      "userId": "user-1789541121362-35",
+      "address": "Main Bazaar, Sector 4",
+      "gstin": "",
+      "createdAt": "2026-09-16T06:45:21.364Z"
+    },
+    {
+      "id": "store-1789541121471-805",
+      "name": "QA Store 6eh5z8g",
+      "type": "kirana",
+      "ownerId": "user-1789541121469-378",
+      "userId": "user-1789541121469-378",
+      "address": "Main Bazaar, Sector 4",
+      "gstin": "",
+      "createdAt": "2026-09-16T06:45:21.471Z"
+    },
+    {
+      "id": "store-1789541121877-746",
+      "name": "QA Store 080y7sq",
+      "type": "kirana",
+      "ownerId": "user-1789541121875-486",
+      "userId": "user-1789541121875-486",
+      "address": "Main Bazaar, Sector 4",
+      "gstin": "",
+      "createdAt": "2026-09-16T06:45:21.877Z"
+    },
+    {
+      "id": "store-1789541122043-395",
+      "name": "QA Store q66dive",
+      "type": "kirana",
+      "ownerId": "user-1789541122042-660",
+      "userId": "user-1789541122042-660",
+      "address": "Main Bazaar, Sector 4",
+      "gstin": "",
+      "createdAt": "2026-09-16T06:45:22.043Z"
+    }
+  ],
+  "auditLogs": [
+    {
+      "id": "log-1789541124173-619",
+      "userId": "user-1789541122042-660",
+      "userName": "QA Tester q66dive",
+      "action": "USER_LOGIN",
+      "details": "Successful authentication session created for qa_1789541121689_q66dive@leadgerx-qa.internal",
+      "storeId": "store-1789541122043-395",
+      "timestamp": "2026-09-16T06:45:24.173Z"
+    },
+    {
+      "id": "log-1789541122066-891",
+      "userId": "user-1789541122042-660",
+      "userName": "QA Tester q66dive",
+      "action": "CREATE_INVENTORY",
+      "details": "Added product Isolated Product B gkz3z6 (15 in stock)",
+      "storeId": "store-1789541122043-395",
+      "timestamp": "2026-09-16T06:45:22.066Z"
+    },
+    {
+      "id": "log-1789541122057-314",
+      "userId": "user-1789541122042-660",
+      "userName": "QA Tester q66dive",
+      "action": "CREATE_CUSTOMER",
+      "details": "Created customer account: Isolated Customer B gkz3z6",
+      "storeId": "store-1789541122043-395",
+      "timestamp": "2026-09-16T06:45:22.057Z"
+    },
+    {
+      "id": "log-1789541122045-43",
+      "userId": "user-1789541122042-660",
+      "userName": "QA Tester q66dive",
+      "action": "USER_REGISTER",
+      "details": "Created new account and primary store: QA Store q66dive",
+      "storeId": "store-1789541122043-395",
+      "timestamp": "2026-09-16T06:45:22.045Z"
+    },
+    {
+      "id": "log-1789541121900-343",
+      "userId": "user-1789541121875-486",
+      "userName": "QA Tester 080y7sq",
+      "action": "CREATE_INVENTORY",
+      "details": "Added product Isolated Product A gkz3z6 (20 in stock)",
+      "storeId": "store-1789541121877-746",
+      "timestamp": "2026-09-16T06:45:21.900Z"
+    },
+    {
+      "id": "log-1789541121891-975",
+      "userId": "user-1789541121875-486",
+      "userName": "QA Tester 080y7sq",
+      "action": "CREATE_CUSTOMER",
+      "details": "Created customer account: Isolated Customer A gkz3z6",
+      "storeId": "store-1789541121877-746",
+      "timestamp": "2026-09-16T06:45:21.891Z"
+    },
+    {
+      "id": "log-1789541121878-40",
+      "userId": "user-1789541121875-486",
+      "userName": "QA Tester 080y7sq",
+      "action": "USER_REGISTER",
+      "details": "Created new account and primary store: QA Store 080y7sq",
+      "storeId": "store-1789541121877-746",
+      "timestamp": "2026-09-16T06:45:21.878Z"
+    },
+    {
+      "id": "log-1789541121473-924",
+      "userId": "user-1789541121469-378",
+      "userName": "QA Tester 6eh5z8g",
+      "action": "USER_REGISTER",
+      "details": "Created new account and primary store: QA Store 6eh5z8g",
+      "storeId": "store-1789541121471-805",
+      "timestamp": "2026-09-16T06:45:21.473Z"
+    },
+    {
+      "id": "log-1789541121365-830",
+      "userId": "user-1789541121362-35",
+      "userName": "QA Tester a3oxuvg",
+      "action": "USER_REGISTER",
+      "details": "Created new account and primary store: QA Store a3oxuvg",
+      "storeId": "store-1789541121364-534",
+      "timestamp": "2026-09-16T06:45:21.365Z"
+    },
+    {
+      "id": "log-1789541115949-660",
+      "userId": "user-1789541115945-880",
+      "userName": "QA Tester lcwxwhp",
+      "action": "USER_REGISTER",
+      "details": "Created new account and primary store: QA Store lcwxwhp",
+      "storeId": "store-1789541115947-398",
+      "timestamp": "2026-09-16T06:45:15.949Z"
+    },
+    {
+      "id": "log-1789541108481-791",
+      "userId": "user-1789541108476-924",
+      "userName": "QA Tester 9v17ggm",
+      "action": "USER_REGISTER",
+      "details": "Created new account and primary store: QA Store 9v17ggm",
+      "storeId": "store-1789541108479-510",
+      "timestamp": "2026-09-16T06:45:08.481Z"
+    },
+    {
+      "id": "log-1789541099947-453",
+      "userId": "user-1789541091857-87",
+      "userName": "QA Tester 0i8yw2d",
+      "action": "COLLECT_UDHAAR",
+      "details": "Collected ₹500 settlement for Udhaar record #u-1789541098821-439",
+      "storeId": "store-1789541091858-890",
+      "timestamp": "2026-09-16T06:44:59.947Z"
+    },
+    {
+      "id": "log-1789541098823-896",
+      "userId": "user-1789541091857-87",
+      "userName": "QA Tester 0i8yw2d",
+      "action": "CREATE_ENTRY",
+      "details": "Booked SALE: Credit Cooking Oil 1L for ₹500 (udhaar)",
+      "storeId": "store-1789541091858-890",
+      "timestamp": "2026-09-16T06:44:58.823Z"
+    },
+    {
+      "id": "log-1789541097875-732",
+      "userId": "user-1789541091857-87",
+      "userName": "QA Tester 0i8yw2d",
+      "action": "CREATE_ENTRY",
+      "details": "Booked SALE: Basmati Rice 5kg hrso9 for ₹960 (paid)",
+      "storeId": "store-1789541091858-890",
+      "timestamp": "2026-09-16T06:44:57.875Z"
+    },
+    {
+      "id": "log-1789541096659-986",
+      "userId": "user-1789541091857-87",
+      "userName": "QA Tester 0i8yw2d",
+      "action": "CREATE_INVENTORY",
+      "details": "Added product Basmati Rice 5kg hrso9 (40 in stock)",
+      "storeId": "store-1789541091858-890",
+      "timestamp": "2026-09-16T06:44:56.659Z"
+    },
+    {
+      "id": "log-1789541094485-830",
+      "userId": "user-1789541091857-87",
+      "userName": "QA Tester 0i8yw2d",
+      "action": "CREATE_CUSTOMER",
+      "details": "Created customer account: Rajesh Kumar hrso9",
+      "storeId": "store-1789541091858-890",
+      "timestamp": "2026-09-16T06:44:54.485Z"
+    },
+    {
+      "id": "log-1789541091860-229",
+      "userId": "user-1789541091857-87",
+      "userName": "QA Tester 0i8yw2d",
+      "action": "USER_REGISTER",
+      "details": "Created new account and primary store: QA Store 0i8yw2d",
+      "storeId": "store-1789541091858-890",
+      "timestamp": "2026-09-16T06:44:51.860Z"
+    },
+    {
+      "id": "log-1789541082977-192",
+      "userId": "user-1789541082968-330",
+      "userName": "QA Tester vfa5dnn",
+      "action": "USER_REGISTER",
+      "details": "Created new account and primary store: QA Store vfa5dnn",
+      "storeId": "store-1789541082970-543",
+      "timestamp": "2026-09-16T06:44:42.977Z"
+    },
+    {
+      "id": "log-1789541078573-954",
+      "userId": "user-1789541074160-755",
+      "userName": "QA Tester m0pbyo5",
+      "action": "USER_LOGIN",
+      "details": "Successful authentication session created for qa_1789541071363_m0pbyo5@leadgerx-qa.internal",
+      "storeId": "store-1789541074161-8",
+      "timestamp": "2026-09-16T06:44:38.573Z"
+    },
+    {
+      "id": "log-1789541074163-223",
+      "userId": "user-1789541074160-755",
+      "userName": "QA Tester m0pbyo5",
+      "action": "USER_REGISTER",
+      "details": "Created new account and primary store: QA Store m0pbyo5",
+      "storeId": "store-1789541074161-8",
+      "timestamp": "2026-09-16T06:44:34.163Z"
+    },
+    {
+      "id": "log-1789541069060-417",
+      "userId": "user-1789541069058-474",
+      "userName": "QA Tester qguzk6b",
+      "action": "USER_REGISTER",
+      "details": "Created new account and primary store: QA Store qguzk6b",
+      "storeId": "store-1789541069059-964",
+      "timestamp": "2026-09-16T06:44:29.060Z"
+    },
+    {
+      "id": "log-1789541028850-112",
+      "userId": "user-1789541020664-241",
+      "userName": "QA Tester ddx2xkm",
+      "action": "COLLECT_UDHAAR",
+      "details": "Collected ₹500 settlement for Udhaar record #u-1789541027728-970",
+      "storeId": "store-1789541020667-163",
+      "timestamp": "2026-09-16T06:43:48.850Z"
+    },
+    {
+      "id": "log-1789541027729-879",
+      "userId": "user-1789541020664-241",
+      "userName": "QA Tester ddx2xkm",
+      "action": "CREATE_ENTRY",
+      "details": "Booked SALE: Credit Cooking Oil 1L for ₹500 (udhaar)",
+      "storeId": "store-1789541020667-163",
+      "timestamp": "2026-09-16T06:43:47.730Z"
+    },
+    {
+      "id": "log-1789541026996-84",
+      "userId": "user-1789541020664-241",
+      "userName": "QA Tester ddx2xkm",
+      "action": "CREATE_ENTRY",
+      "details": "Booked SALE: Basmati Rice 5kg 3gm1t for ₹960 (paid)",
+      "storeId": "store-1789541020667-163",
+      "timestamp": "2026-09-16T06:43:46.996Z"
+    },
+    {
+      "id": "log-1789541025614-68",
+      "userId": "user-1789541020664-241",
+      "userName": "QA Tester ddx2xkm",
+      "action": "CREATE_INVENTORY",
+      "details": "Added product Basmati Rice 5kg 3gm1t (40 in stock)",
+      "storeId": "store-1789541020667-163",
+      "timestamp": "2026-09-16T06:43:45.614Z"
+    },
+    {
+      "id": "log-1789541023521-245",
+      "userId": "user-1789541020664-241",
+      "userName": "QA Tester ddx2xkm",
+      "action": "CREATE_CUSTOMER",
+      "details": "Created customer account: Rajesh Kumar 3gm1t",
+      "storeId": "store-1789541020667-163",
+      "timestamp": "2026-09-16T06:43:43.521Z"
+    },
+    {
+      "id": "log-1789541020669-73",
+      "userId": "user-1789541020664-241",
+      "userName": "QA Tester ddx2xkm",
+      "action": "USER_REGISTER",
+      "details": "Created new account and primary store: QA Store ddx2xkm",
+      "storeId": "store-1789541020667-163",
+      "timestamp": "2026-09-16T06:43:40.669Z"
+    },
+    {
+      "id": "log-1789540491555-333",
+      "userId": "user-1789540483517-474",
+      "userName": "QA Tester udnxikm",
+      "action": "COLLECT_UDHAAR",
+      "details": "Collected ₹500 settlement for Udhaar record #u-1789540490517-230",
+      "storeId": "store-1789540483518-106",
+      "timestamp": "2026-09-16T06:34:51.555Z"
+    },
+    {
+      "id": "log-1789540490518-126",
+      "userId": "user-1789540483517-474",
+      "userName": "QA Tester udnxikm",
+      "action": "CREATE_ENTRY",
+      "details": "Booked SALE: Credit Cooking Oil 1L for ₹500 (udhaar)",
+      "storeId": "store-1789540483518-106",
+      "timestamp": "2026-09-16T06:34:50.518Z"
+    },
+    {
+      "id": "log-1789540489845-121",
+      "userId": "user-1789540483517-474",
+      "userName": "QA Tester udnxikm",
+      "action": "CREATE_ENTRY",
+      "details": "Booked SALE: Basmati Rice 5kg xa1oh for ₹960 (paid)",
+      "storeId": "store-1789540483518-106",
+      "timestamp": "2026-09-16T06:34:49.845Z"
+    },
+    {
+      "id": "log-1789540488541-198",
+      "userId": "user-1789540483517-474",
+      "userName": "QA Tester udnxikm",
+      "action": "CREATE_INVENTORY",
+      "details": "Added product Basmati Rice 5kg xa1oh (40 in stock)",
+      "storeId": "store-1789540483518-106",
+      "timestamp": "2026-09-16T06:34:48.541Z"
+    },
+    {
+      "id": "log-1789540486387-534",
+      "userId": "user-1789540483517-474",
+      "userName": "QA Tester udnxikm",
+      "action": "CREATE_CUSTOMER",
+      "details": "Created customer account: Rajesh Kumar xa1oh",
+      "storeId": "store-1789540483518-106",
+      "timestamp": "2026-09-16T06:34:46.388Z"
+    },
+    {
+      "id": "log-1789540483522-761",
+      "userId": "user-1789540483517-474",
+      "userName": "QA Tester udnxikm",
+      "action": "USER_REGISTER",
+      "details": "Created new account and primary store: QA Store udnxikm",
+      "storeId": "store-1789540483518-106",
+      "timestamp": "2026-09-16T06:34:43.522Z"
+    },
+    {
+      "id": "log-1789538496000-496",
+      "userId": "user-1789538493755-330",
+      "userName": "QA Tester l8bocr4",
+      "action": "USER_LOGIN",
+      "details": "Successful authentication session created for qa_1789538493409_l8bocr4@leadgerx-qa.internal",
+      "storeId": "store-1789538493756-619",
+      "timestamp": "2026-09-16T06:01:36.000Z"
+    },
+    {
+      "id": "log-1789538493774-533",
+      "userId": "user-1789538493755-330",
+      "userName": "QA Tester l8bocr4",
+      "action": "CREATE_INVENTORY",
+      "details": "Added product Isolated Product B ruikgy (15 in stock)",
+      "storeId": "store-1789538493756-619",
+      "timestamp": "2026-09-16T06:01:33.774Z"
+    },
+    {
+      "id": "log-1789538493767-666",
+      "userId": "user-1789538493755-330",
+      "userName": "QA Tester l8bocr4",
+      "action": "CREATE_CUSTOMER",
+      "details": "Created customer account: Isolated Customer B ruikgy",
+      "storeId": "store-1789538493756-619",
+      "timestamp": "2026-09-16T06:01:33.767Z"
+    },
+    {
+      "id": "log-1789538493757-951",
+      "userId": "user-1789538493755-330",
+      "userName": "QA Tester l8bocr4",
+      "action": "USER_REGISTER",
+      "details": "Created new account and primary store: QA Store l8bocr4",
+      "storeId": "store-1789538493756-619",
+      "timestamp": "2026-09-16T06:01:33.757Z"
+    },
+    {
+      "id": "log-1789538493601-850",
+      "userId": "user-1789538493579-901",
+      "userName": "QA Tester 0fysdw7",
+      "action": "CREATE_INVENTORY",
+      "details": "Added product Isolated Product A ruikgy (20 in stock)",
+      "storeId": "store-1789538493581-633",
+      "timestamp": "2026-09-16T06:01:33.601Z"
+    },
+    {
+      "id": "log-1789538493593-542",
+      "userId": "user-1789538493579-901",
+      "userName": "QA Tester 0fysdw7",
+      "action": "CREATE_CUSTOMER",
+      "details": "Created customer account: Isolated Customer A ruikgy",
+      "storeId": "store-1789538493581-633",
+      "timestamp": "2026-09-16T06:01:33.593Z"
+    },
+    {
+      "id": "log-1789538493582-750",
+      "userId": "user-1789538493579-901",
+      "userName": "QA Tester 0fysdw7",
+      "action": "USER_REGISTER",
+      "details": "Created new account and primary store: QA Store 0fysdw7",
+      "storeId": "store-1789538493581-633",
+      "timestamp": "2026-09-16T06:01:33.582Z"
+    },
+    {
+      "id": "log-1789538493189-420",
+      "userId": "user-1789538493186-389",
+      "userName": "QA Tester 1tiqpx3",
+      "action": "USER_REGISTER",
+      "details": "Created new account and primary store: QA Store 1tiqpx3",
+      "storeId": "store-1789538493187-269",
+      "timestamp": "2026-09-16T06:01:33.189Z"
+    },
+    {
+      "id": "log-1789538493077-463",
+      "userId": "user-1789538493074-163",
+      "userName": "QA Tester 76oqteh",
+      "action": "USER_REGISTER",
+      "details": "Created new account and primary store: QA Store 76oqteh",
+      "storeId": "store-1789538493076-526",
+      "timestamp": "2026-09-16T06:01:33.077Z"
+    },
+    {
+      "id": "log-1789538487651-323",
+      "userId": "user-1789538487641-768",
+      "userName": "QA Tester 8kku91v",
+      "action": "USER_REGISTER",
+      "details": "Created new account and primary store: QA Store 8kku91v",
+      "storeId": "store-1789538487649-219",
+      "timestamp": "2026-09-16T06:01:27.651Z"
+    },
+    {
+      "id": "log-1789538480342-839",
+      "userId": "user-1789538480311-131",
+      "userName": "QA Tester lq7csg3",
+      "action": "USER_REGISTER",
+      "details": "Created new account and primary store: QA Store lq7csg3",
+      "storeId": "store-1789538480312-795",
+      "timestamp": "2026-09-16T06:01:20.342Z"
+    },
+    {
+      "id": "log-1789538472536-518",
+      "userId": "user-1789538464589-436",
+      "userName": "QA Tester sjidzmw",
+      "action": "COLLECT_UDHAAR",
+      "details": "Collected ₹500 settlement for Udhaar record #u-1789538471429-326",
+      "storeId": "store-1789538464591-26",
+      "timestamp": "2026-09-16T06:01:12.536Z"
+    },
+    {
+      "id": "log-1789538471431-199",
+      "userId": "user-1789538464589-436",
+      "userName": "QA Tester sjidzmw",
+      "action": "CREATE_ENTRY",
+      "details": "Booked SALE: Credit Cooking Oil 1L for ₹500 (udhaar)",
+      "storeId": "store-1789538464591-26",
+      "timestamp": "2026-09-16T06:01:11.431Z"
+    },
+    {
+      "id": "log-1789538470726-171",
+      "userId": "user-1789538464589-436",
+      "userName": "QA Tester sjidzmw",
+      "action": "CREATE_ENTRY",
+      "details": "Booked SALE: Basmati Rice 5kg is991 for ₹960 (paid)",
+      "storeId": "store-1789538464591-26",
+      "timestamp": "2026-09-16T06:01:10.726Z"
+    },
+    {
+      "id": "log-1789538469530-81",
+      "userId": "user-1789538464589-436",
+      "userName": "QA Tester sjidzmw",
+      "action": "CREATE_INVENTORY",
+      "details": "Added product Basmati Rice 5kg is991 (40 in stock)",
+      "storeId": "store-1789538464591-26",
+      "timestamp": "2026-09-16T06:01:09.530Z"
+    },
+    {
+      "id": "log-1789538467375-611",
+      "userId": "user-1789538464589-436",
+      "userName": "QA Tester sjidzmw",
+      "action": "CREATE_CUSTOMER",
+      "details": "Created customer account: Rajesh Kumar is991",
+      "storeId": "store-1789538464591-26",
+      "timestamp": "2026-09-16T06:01:07.375Z"
+    },
+    {
+      "id": "log-1789538464593-796",
+      "userId": "user-1789538464589-436",
+      "userName": "QA Tester sjidzmw",
+      "action": "USER_REGISTER",
+      "details": "Created new account and primary store: QA Store sjidzmw",
+      "storeId": "store-1789538464591-26",
+      "timestamp": "2026-09-16T06:01:04.593Z"
+    },
+    {
+      "id": "log-1789538455860-196",
+      "userId": "user-1789538455857-807",
+      "userName": "QA Tester dwkf0he",
+      "action": "USER_REGISTER",
+      "details": "Created new account and primary store: QA Store dwkf0he",
+      "storeId": "store-1789538455858-560",
+      "timestamp": "2026-09-16T06:00:55.860Z"
+    },
+    {
+      "id": "log-1789538451394-462",
+      "userId": "user-1789538446673-467",
+      "userName": "QA Tester nbsv0dv",
+      "action": "USER_LOGIN",
+      "details": "Successful authentication session created for qa_1789538443289_nbsv0dv@leadgerx-qa.internal",
+      "storeId": "store-1789538446674-215",
+      "timestamp": "2026-09-16T06:00:51.394Z"
+    },
+    {
+      "id": "log-1789538446676-245",
+      "userId": "user-1789538446673-467",
+      "userName": "QA Tester nbsv0dv",
+      "action": "USER_REGISTER",
+      "details": "Created new account and primary store: QA Store nbsv0dv",
+      "storeId": "store-1789538446674-215",
+      "timestamp": "2026-09-16T06:00:46.676Z"
+    },
+    {
+      "id": "log-1789538439838-274",
+      "userId": "user-1789538439832-605",
+      "userName": "QA Tester v45cqwj",
+      "action": "USER_REGISTER",
+      "details": "Created new account and primary store: QA Store v45cqwj",
+      "storeId": "store-1789538439834-582",
+      "timestamp": "2026-09-16T06:00:39.838Z"
+    },
+    {
+      "id": "log-1789538353077-833",
+      "userId": "user-1789538351066-173",
+      "userName": "QA Tester cd2101u",
+      "action": "USER_LOGIN",
+      "details": "Successful authentication session created for qa_1789538350748_cd2101u@leadgerx-qa.internal",
+      "storeId": "store-1789538351068-111",
+      "timestamp": "2026-09-16T05:59:13.077Z"
+    },
+    {
+      "id": "log-1789538351087-789",
+      "userId": "user-1789538351066-173",
+      "userName": "QA Tester cd2101u",
+      "action": "CREATE_INVENTORY",
+      "details": "Added product Isolated Product B yy9boy (15 in stock)",
+      "storeId": "store-1789538351068-111",
+      "timestamp": "2026-09-16T05:59:11.087Z"
+    },
+    {
+      "id": "log-1789538351079-79",
+      "userId": "user-1789538351066-173",
+      "userName": "QA Tester cd2101u",
+      "action": "CREATE_CUSTOMER",
+      "details": "Created customer account: Isolated Customer B yy9boy",
+      "storeId": "store-1789538351068-111",
+      "timestamp": "2026-09-16T05:59:11.079Z"
+    },
+    {
+      "id": "log-1789538351069-747",
+      "userId": "user-1789538351066-173",
+      "userName": "QA Tester cd2101u",
+      "action": "USER_REGISTER",
+      "details": "Created new account and primary store: QA Store cd2101u",
+      "storeId": "store-1789538351068-111",
+      "timestamp": "2026-09-16T05:59:11.069Z"
+    },
+    {
+      "id": "log-1789538350927-648",
+      "userId": "user-1789538350891-93",
+      "userName": "QA Tester vui4kf6",
+      "action": "CREATE_INVENTORY",
+      "details": "Added product Isolated Product A yy9boy (20 in stock)",
+      "storeId": "store-1789538350892-77",
+      "timestamp": "2026-09-16T05:59:10.927Z"
+    },
+    {
+      "id": "log-1789538350920-107",
+      "userId": "user-1789538350891-93",
+      "userName": "QA Tester vui4kf6",
+      "action": "CREATE_CUSTOMER",
+      "details": "Created customer account: Isolated Customer A yy9boy",
+      "storeId": "store-1789538350892-77",
+      "timestamp": "2026-09-16T05:59:10.920Z"
+    },
+    {
+      "id": "log-1789538350909-160",
+      "userId": "user-1789538350891-93",
+      "userName": "QA Tester vui4kf6",
+      "action": "USER_REGISTER",
+      "details": "Created new account and primary store: QA Store vui4kf6",
+      "storeId": "store-1789538350892-77",
+      "timestamp": "2026-09-16T05:59:10.909Z"
+    },
+    {
+      "id": "log-1789538350503-462",
+      "userId": "user-1789538350500-992",
+      "userName": "QA Tester jgj8tzq",
+      "action": "USER_REGISTER",
+      "details": "Created new account and primary store: QA Store jgj8tzq",
+      "storeId": "store-1789538350501-972",
+      "timestamp": "2026-09-16T05:59:10.503Z"
+    },
+    {
+      "id": "log-1789538350393-95",
+      "userId": "user-1789538350391-161",
+      "userName": "QA Tester 3wl70sz",
+      "action": "USER_REGISTER",
+      "details": "Created new account and primary store: QA Store 3wl70sz",
+      "storeId": "store-1789538350392-392",
+      "timestamp": "2026-09-16T05:59:10.393Z"
+    },
+    {
+      "id": "log-1789538345220-285",
+      "userId": "user-1789538345213-940",
+      "userName": "QA Tester 9gn18jc",
+      "action": "USER_REGISTER",
+      "details": "Created new account and primary store: QA Store 9gn18jc",
+      "storeId": "store-1789538345217-835",
+      "timestamp": "2026-09-16T05:59:05.220Z"
+    },
+    {
+      "id": "log-1789538337692-91",
+      "userId": "user-1789538337686-536",
+      "userName": "QA Tester jerc2wb",
+      "action": "USER_REGISTER",
+      "details": "Created new account and primary store: QA Store jerc2wb",
+      "storeId": "store-1789538337691-289",
+      "timestamp": "2026-09-16T05:58:57.692Z"
+    },
+    {
+      "id": "log-1789538329935-572",
+      "userId": "user-1789538321747-673",
+      "userName": "QA Tester nxxcts9",
+      "action": "COLLECT_UDHAAR",
+      "details": "Collected ₹500 settlement for Udhaar record #u-1789538328640-951",
+      "storeId": "store-1789538321748-752",
+      "timestamp": "2026-09-16T05:58:49.935Z"
+    },
+    {
+      "id": "log-1789538328641-141",
+      "userId": "user-1789538321747-673",
+      "userName": "QA Tester nxxcts9",
+      "action": "CREATE_ENTRY",
+      "details": "Booked SALE: Credit Cooking Oil 1L for ₹500 (udhaar)",
+      "storeId": "store-1789538321748-752",
+      "timestamp": "2026-09-16T05:58:48.641Z"
+    },
+    {
+      "id": "log-1789538327828-284",
+      "userId": "user-1789538321747-673",
+      "userName": "QA Tester nxxcts9",
+      "action": "CREATE_ENTRY",
+      "details": "Booked SALE: Basmati Rice 5kg rq4dl for ₹960 (paid)",
+      "storeId": "store-1789538321748-752",
+      "timestamp": "2026-09-16T05:58:47.828Z"
+    },
+    {
+      "id": "log-1789538326471-704",
+      "userId": "user-1789538321747-673",
+      "userName": "QA Tester nxxcts9",
+      "action": "CREATE_INVENTORY",
+      "details": "Added product Basmati Rice 5kg rq4dl (40 in stock)",
+      "storeId": "store-1789538321748-752",
+      "timestamp": "2026-09-16T05:58:46.471Z"
+    },
+    {
+      "id": "log-1789538324452-850",
+      "userId": "user-1789538321747-673",
+      "userName": "QA Tester nxxcts9",
+      "action": "CREATE_CUSTOMER",
+      "details": "Created customer account: Rajesh Kumar rq4dl",
+      "storeId": "store-1789538321748-752",
+      "timestamp": "2026-09-16T05:58:44.452Z"
+    },
+    {
+      "id": "log-1789538321750-457",
+      "userId": "user-1789538321747-673",
+      "userName": "QA Tester nxxcts9",
+      "action": "USER_REGISTER",
+      "details": "Created new account and primary store: QA Store nxxcts9",
+      "storeId": "store-1789538321748-752",
+      "timestamp": "2026-09-16T05:58:41.750Z"
+    },
+    {
+      "id": "log-1789538313492-139",
+      "userId": "user-1789538313491-584",
+      "userName": "QA Tester 5ttod69",
+      "action": "USER_REGISTER",
+      "details": "Created new account and primary store: QA Store 5ttod69",
+      "storeId": "store-1789538313491-556",
+      "timestamp": "2026-09-16T05:58:33.492Z"
+    },
+    {
+      "id": "log-1789538309403-136",
+      "userId": "user-1789538304508-396",
+      "userName": "QA Tester 9viawr8",
+      "action": "USER_LOGIN",
+      "details": "Successful authentication session created for qa_1789538301646_9viawr8@leadgerx-qa.internal",
+      "storeId": "store-1789538304510-185",
+      "timestamp": "2026-09-16T05:58:29.403Z"
+    },
+    {
+      "id": "log-1789538304512-281",
+      "userId": "user-1789538304508-396",
+      "userName": "QA Tester 9viawr8",
+      "action": "USER_REGISTER",
+      "details": "Created new account and primary store: QA Store 9viawr8",
+      "storeId": "store-1789538304510-185",
+      "timestamp": "2026-09-16T05:58:24.512Z"
+    },
+    {
+      "id": "log-1789538295798-207",
+      "userId": "user-1789538295795-669",
+      "userName": "QA Tester b5xd90t",
+      "action": "USER_REGISTER",
+      "details": "Created new account and primary store: QA Store b5xd90t",
+      "storeId": "store-1789538295796-933",
+      "timestamp": "2026-09-16T05:58:15.798Z"
+    },
+    {
+      "id": "log-1789538214010-567",
+      "userId": "user-1789538214008-548",
+      "userName": "QA Tester or3edjp",
+      "action": "USER_REGISTER",
+      "details": "Created new account and primary store: QA Store or3edjp",
+      "storeId": "store-1789538214009-564",
+      "timestamp": "2026-09-16T05:56:54.010Z"
+    },
+    {
+      "id": "log-1789538213885-899",
+      "userId": "user-1789538213883-728",
+      "userName": "QA Tester 27heyvf",
+      "action": "USER_REGISTER",
+      "details": "Created new account and primary store: QA Store 27heyvf",
+      "storeId": "store-1789538213884-266",
+      "timestamp": "2026-09-16T05:56:53.885Z"
+    },
+    {
+      "id": "log-1789538187502-437",
+      "userId": "user-1789538187497-592",
+      "userName": "QA Tester 4z594o0",
+      "action": "USER_REGISTER",
+      "details": "Created new account and primary store: QA Store 4z594o0",
+      "storeId": "store-1789538187498-899",
+      "timestamp": "2026-09-16T05:56:27.502Z"
+    },
+    {
+      "id": "log-1789537217129-255",
+      "userId": "user-1789537217126-960",
+      "userName": "QA Tester g2wk2an",
+      "action": "USER_REGISTER",
+      "details": "Created new account and primary store: QA Store g2wk2an",
+      "storeId": "store-1789537217127-110",
+      "timestamp": "2026-09-16T05:40:17.129Z"
+    },
+    {
+      "id": "log-1789537217012-210",
+      "userId": "user-1789537217009-106",
+      "userName": "QA Tester m3asrw4",
+      "action": "USER_REGISTER",
+      "details": "Created new account and primary store: QA Store m3asrw4",
+      "storeId": "store-1789537217010-90",
+      "timestamp": "2026-09-16T05:40:17.012Z"
+    },
+    {
+      "id": "log-1789537206070-47",
+      "userId": "user-1789537206066-837",
+      "userName": "QA Tester mzvpct4",
+      "action": "USER_REGISTER",
+      "details": "Created new account and primary store: QA Store mzvpct4",
+      "storeId": "store-1789537206067-979",
+      "timestamp": "2026-09-16T05:40:06.070Z"
+    },
+    {
+      "id": "log-1789375229818-30",
+      "userId": "user-1789375229813-314",
+      "userName": "QA Tester ivm7ubt",
+      "action": "USER_REGISTER",
+      "details": "Created new account and primary store: QA Store ivm7ubt",
+      "storeId": "store-1789375229815-251",
+      "timestamp": "2026-09-14T08:40:29.818Z"
+    },
+    {
+      "id": "log-1789375229735-556",
+      "userId": "user-1789375229727-247",
+      "userName": "QA Tester 88r8u4d",
+      "action": "USER_REGISTER",
+      "details": "Created new account and primary store: QA Store 88r8u4d",
+      "storeId": "store-1789375229731-636",
+      "timestamp": "2026-09-14T08:40:29.735Z"
+    },
+    {
+      "id": "log-1789374975063-614",
+      "userId": "user-1789374975058-726",
+      "userName": "QA Tester 9e4orne",
+      "action": "USER_REGISTER",
+      "details": "Created new account and primary store: QA Store 9e4orne",
+      "storeId": "store-1789374975060-150",
+      "timestamp": "2026-09-14T08:36:15.063Z"
+    },
+    {
+      "id": "log-1789374974983-626",
+      "userId": "user-1789374974972-892",
+      "userName": "QA Tester 9m8ya8w",
+      "action": "USER_REGISTER",
+      "details": "Created new account and primary store: QA Store 9m8ya8w",
+      "storeId": "store-1789374974975-547",
+      "timestamp": "2026-09-14T08:36:14.983Z"
+    },
+    {
+      "id": "log-1789373686284-163",
+      "userId": "user-1789373677789-231",
+      "userName": "QA Tester u7777xn",
+      "action": "COLLECT_UDHAAR",
+      "details": "Collected ₹500 settlement for Udhaar record #u-1789373685071-886",
+      "storeId": "store-1789373677790-715",
+      "timestamp": "2026-09-14T08:14:46.284Z"
+    },
+    {
+      "id": "log-1789373685072-870",
+      "userId": "user-1789373677789-231",
+      "userName": "QA Tester u7777xn",
+      "action": "CREATE_ENTRY",
+      "details": "Booked SALE: Credit Cooking Oil 1L for ₹500 (udhaar)",
+      "storeId": "store-1789373677790-715",
+      "timestamp": "2026-09-14T08:14:45.072Z"
+    },
+    {
+      "id": "log-1789373684311-502",
+      "userId": "user-1789373677789-231",
+      "userName": "QA Tester u7777xn",
+      "action": "CREATE_ENTRY",
+      "details": "Booked SALE: Basmati Rice 5kg 9ql1u for ₹960 (paid)",
+      "storeId": "store-1789373677790-715",
+      "timestamp": "2026-09-14T08:14:44.311Z"
+    },
+    {
+      "id": "log-1789373683071-198",
+      "userId": "user-1789373677789-231",
+      "userName": "QA Tester u7777xn",
+      "action": "CREATE_INVENTORY",
+      "details": "Added product Basmati Rice 5kg 9ql1u (40 in stock)",
+      "storeId": "store-1789373677790-715",
+      "timestamp": "2026-09-14T08:14:43.071Z"
+    },
+    {
+      "id": "log-1789373680993-536",
+      "userId": "user-1789373677789-231",
+      "userName": "QA Tester u7777xn",
+      "action": "CREATE_CUSTOMER",
+      "details": "Created customer account: Rajesh Kumar 9ql1u",
+      "storeId": "store-1789373677790-715",
+      "timestamp": "2026-09-14T08:14:40.993Z"
+    },
+    {
+      "id": "log-1789373677794-138",
+      "userId": "user-1789373677789-231",
+      "userName": "QA Tester u7777xn",
+      "action": "USER_REGISTER",
+      "details": "Created new account and primary store: QA Store u7777xn",
+      "storeId": "store-1789373677790-715",
+      "timestamp": "2026-09-14T08:14:37.794Z"
+    },
+    {
+      "id": "log-1789373558149-874",
+      "userId": "user-1789373551083-997",
+      "userName": "QA Tester unkjn7r",
+      "action": "CREATE_ENTRY",
+      "details": "Booked SALE: Credit Cooking Oil 1L for ₹500 (udhaar)",
+      "storeId": "store-1789373551084-549",
+      "timestamp": "2026-09-14T08:12:38.149Z"
+    },
+    {
+      "id": "log-1789373557371-318",
+      "userId": "user-1789373551083-997",
+      "userName": "QA Tester unkjn7r",
+      "action": "CREATE_ENTRY",
+      "details": "Booked SALE: Basmati Rice 5kg 3m15i for ₹960 (paid)",
+      "storeId": "store-1789373551084-549",
+      "timestamp": "2026-09-14T08:12:37.371Z"
+    },
+    {
+      "id": "log-1789373556038-989",
+      "userId": "user-1789373551083-997",
+      "userName": "QA Tester unkjn7r",
+      "action": "CREATE_INVENTORY",
+      "details": "Added product Basmati Rice 5kg 3m15i (40 in stock)",
+      "storeId": "store-1789373551084-549",
+      "timestamp": "2026-09-14T08:12:36.038Z"
+    },
+    {
+      "id": "log-1789373553937-734",
+      "userId": "user-1789373551083-997",
+      "userName": "QA Tester unkjn7r",
+      "action": "CREATE_CUSTOMER",
+      "details": "Created customer account: Rajesh Kumar 3m15i",
+      "storeId": "store-1789373551084-549",
+      "timestamp": "2026-09-14T08:12:33.937Z"
+    },
+    {
+      "id": "log-1789373551088-246",
+      "userId": "user-1789373551083-997",
+      "userName": "QA Tester unkjn7r",
+      "action": "USER_REGISTER",
+      "details": "Created new account and primary store: QA Store unkjn7r",
+      "storeId": "store-1789373551084-549",
+      "timestamp": "2026-09-14T08:12:31.088Z"
+    },
+    {
+      "id": "log-1789373465313-791",
+      "userId": "user-1789373460173-262",
+      "userName": "QA Tester s6sfjk0",
+      "action": "CREATE_INVENTORY",
+      "details": "Added product Basmati Rice 5kg labyf (40 in stock)",
+      "storeId": "store-1789373460173-24",
+      "timestamp": "2026-09-14T08:11:05.313Z"
+    },
+    {
+      "id": "log-1789373463310-971",
+      "userId": "user-1789373460173-262",
+      "userName": "QA Tester s6sfjk0",
+      "action": "CREATE_CUSTOMER",
+      "details": "Created customer account: Rajesh Kumar labyf",
+      "storeId": "store-1789373460173-24",
+      "timestamp": "2026-09-14T08:11:03.310Z"
+    },
+    {
+      "id": "log-1789373460175-514",
+      "userId": "user-1789373460173-262",
+      "userName": "QA Tester s6sfjk0",
+      "action": "USER_REGISTER",
+      "details": "Created new account and primary store: QA Store s6sfjk0",
+      "storeId": "store-1789373460173-24",
+      "timestamp": "2026-09-14T08:11:00.175Z"
+    },
+    {
+      "id": "log-1789373440479-711",
+      "userId": "user-1789373440477-684",
+      "userName": "QA Tester et9g849",
+      "action": "USER_REGISTER",
+      "details": "Created new account and primary store: QA Store et9g849",
+      "storeId": "store-1789373440478-510",
+      "timestamp": "2026-09-14T08:10:40.479Z"
+    },
+    {
+      "id": "log-1789373376301-367",
+      "userId": "user-1789373376299-381",
+      "userName": "QA Tester b5m2tyz",
+      "action": "USER_REGISTER",
+      "details": "Created new account and primary store: QA Store b5m2tyz",
+      "storeId": "store-1789373376300-714",
+      "timestamp": "2026-09-14T08:09:36.301Z"
+    },
+    {
+      "id": "log-1789373360401-546",
+      "userId": "user-1789373360397-427",
+      "userName": "QA Tester 57phdfv",
+      "action": "USER_REGISTER",
+      "details": "Created new account and primary store: QA Store 57phdfv",
+      "storeId": "store-1789373360398-418",
+      "timestamp": "2026-09-14T08:09:20.401Z"
+    },
+    {
+      "id": "log-1789373324885-872",
+      "userId": "user-1789373324883-145",
+      "userName": "QA Tester zl4be43",
+      "action": "USER_REGISTER",
+      "details": "Created new account and primary store: QA Store zl4be43",
+      "storeId": "store-1789373324884-889",
+      "timestamp": "2026-09-14T08:08:44.885Z"
+    },
+    {
+      "id": "log-1789373199606-210",
+      "userId": "user-1789373199603-374",
+      "userName": "QA Tester 8qfqvpn",
+      "action": "USER_REGISTER",
+      "details": "Created new account and primary store: QA Store 8qfqvpn",
+      "storeId": "store-1789373199604-457",
+      "timestamp": "2026-09-14T08:06:39.606Z"
+    },
+    {
+      "id": "log-1789373182273-124",
+      "userId": "user-1789373182271-763",
+      "userName": "QA Tester c5e5nc8",
+      "action": "USER_REGISTER",
+      "details": "Created new account and primary store: QA Store c5e5nc8",
+      "storeId": "store-1789373182271-559",
+      "timestamp": "2026-09-14T08:06:22.273Z"
+    },
+    {
+      "id": "log-1789373178087-383",
+      "userId": "user-1789373173170-981",
+      "userName": "QA Tester fm2lool",
+      "action": "USER_LOGIN",
+      "details": "Successful authentication session created for qa_1789373170621_fm2lool@leadgerx-qa.internal",
+      "storeId": "store-1789373173171-918",
+      "timestamp": "2026-09-14T08:06:18.087Z"
+    },
+    {
+      "id": "log-1789373173172-883",
+      "userId": "user-1789373173170-981",
+      "userName": "QA Tester fm2lool",
+      "action": "USER_REGISTER",
+      "details": "Created new account and primary store: QA Store fm2lool",
+      "storeId": "store-1789373173171-918",
+      "timestamp": "2026-09-14T08:06:13.172Z"
+    },
+    {
+      "id": "log-1789373159079-924",
+      "userId": "user-1789373156988-253",
+      "userName": "QA Tester esk7i1p",
+      "action": "USER_LOGIN",
+      "details": "Successful authentication session created for qa_1789373156762_esk7i1p@leadgerx-qa.internal",
+      "storeId": "store-1789373156989-601",
+      "timestamp": "2026-09-14T08:05:59.079Z"
+    },
+    {
+      "id": "log-1789373157003-111",
+      "userId": "user-1789373156988-253",
+      "userName": "QA Tester esk7i1p",
+      "action": "CREATE_INVENTORY",
+      "details": "Added product Isolated Product B 7ln2my (15 in stock)",
+      "storeId": "store-1789373156989-601",
+      "timestamp": "2026-09-14T08:05:57.003Z"
+    },
+    {
+      "id": "log-1789373156997-617",
+      "userId": "user-1789373156988-253",
+      "userName": "QA Tester esk7i1p",
+      "action": "CREATE_CUSTOMER",
+      "details": "Created customer account: Isolated Customer B 7ln2my",
+      "storeId": "store-1789373156989-601",
+      "timestamp": "2026-09-14T08:05:56.997Z"
+    },
+    {
+      "id": "log-1789373156990-705",
+      "userId": "user-1789373156988-253",
+      "userName": "QA Tester esk7i1p",
+      "action": "USER_REGISTER",
+      "details": "Created new account and primary store: QA Store esk7i1p",
+      "storeId": "store-1789373156989-601",
+      "timestamp": "2026-09-14T08:05:56.990Z"
+    },
+    {
+      "id": "log-1789373156884-311",
+      "userId": "user-1789373156867-237",
+      "userName": "QA Tester dou7yja",
+      "action": "CREATE_INVENTORY",
+      "details": "Added product Isolated Product A 7ln2my (20 in stock)",
+      "storeId": "store-1789373156868-28",
+      "timestamp": "2026-09-14T08:05:56.884Z"
+    },
+    {
+      "id": "log-1789373156878-239",
+      "userId": "user-1789373156867-237",
+      "userName": "QA Tester dou7yja",
+      "action": "CREATE_CUSTOMER",
+      "details": "Created customer account: Isolated Customer A 7ln2my",
+      "storeId": "store-1789373156868-28",
+      "timestamp": "2026-09-14T08:05:56.878Z"
+    },
+    {
+      "id": "log-1789373156869-665",
+      "userId": "user-1789373156867-237",
+      "userName": "QA Tester dou7yja",
+      "action": "USER_REGISTER",
+      "details": "Created new account and primary store: QA Store dou7yja",
+      "storeId": "store-1789373156868-28",
+      "timestamp": "2026-09-14T08:05:56.869Z"
+    },
+    {
+      "id": "log-1789373156409-299",
+      "userId": "user-1789373156407-199",
+      "userName": "QA Tester 8jidlht",
+      "action": "USER_REGISTER",
+      "details": "Created new account and primary store: QA Store 8jidlht",
+      "storeId": "store-1789373156408-753",
+      "timestamp": "2026-09-14T08:05:56.409Z"
+    },
+    {
+      "id": "log-1789373156272-99",
+      "userId": "user-1789373156270-708",
+      "userName": "QA Tester kn9saom",
+      "action": "USER_REGISTER",
+      "details": "Created new account and primary store: QA Store kn9saom",
+      "storeId": "store-1789373156271-854",
+      "timestamp": "2026-09-14T08:05:56.272Z"
+    },
+    {
+      "id": "log-1789373111856-21",
+      "userId": "user-1789373111840-63",
+      "userName": "QA Tester 1qu6goq",
+      "action": "CREATE_CUSTOMER",
+      "details": "Created customer account: Isolated Customer B 8pd945",
+      "storeId": "store-1789373111841-159",
+      "timestamp": "2026-09-14T08:05:11.856Z"
+    },
+    {
+      "id": "log-1789373111842-185",
+      "userId": "user-1789373111840-63",
+      "userName": "QA Tester 1qu6goq",
+      "action": "USER_REGISTER",
+      "details": "Created new account and primary store: QA Store 1qu6goq",
+      "storeId": "store-1789373111841-159",
+      "timestamp": "2026-09-14T08:05:11.842Z"
+    },
+    {
+      "id": "log-1789373111722-785",
+      "userId": "user-1789373111692-300",
+      "userName": "QA Tester h3sc1z2",
+      "action": "CREATE_CUSTOMER",
+      "details": "Created customer account: Isolated Customer A 8pd945",
+      "storeId": "store-1789373111693-799",
+      "timestamp": "2026-09-14T08:05:11.722Z"
+    },
+    {
+      "id": "log-1789373111694-555",
+      "userId": "user-1789373111692-300",
+      "userName": "QA Tester h3sc1z2",
+      "action": "USER_REGISTER",
+      "details": "Created new account and primary store: QA Store h3sc1z2",
+      "storeId": "store-1789373111693-799",
+      "timestamp": "2026-09-14T08:05:11.694Z"
+    },
+    {
+      "id": "log-1789373109647-414",
+      "userId": "user-1789373109646-736",
+      "userName": "QA Tester hehzs82",
+      "action": "USER_REGISTER",
+      "details": "Created new account and primary store: QA Store hehzs82",
+      "storeId": "store-1789373109646-126",
+      "timestamp": "2026-09-14T08:05:09.647Z"
+    },
+    {
+      "id": "log-1789373109530-158",
+      "userId": "user-1789373109526-904",
+      "userName": "QA Tester poga0j3",
+      "action": "USER_REGISTER",
+      "details": "Created new account and primary store: QA Store poga0j3",
+      "storeId": "store-1789373109527-659",
+      "timestamp": "2026-09-14T08:05:09.530Z"
+    },
+    {
+      "id": "log-1789112299830-747",
+      "userId": "user-suresh",
+      "userName": "Suresh Kumar",
+      "action": "CREATE_INVENTORY",
+      "details": "Added product Basmati Rice 5kg (20 in stock)",
+      "storeId": "store-user-suresh-primary",
+      "timestamp": "2026-09-11T07:38:19.830Z"
+    },
+    {
+      "id": "log-1789112125022-745",
+      "userId": "user-suresh",
+      "userName": "Suresh Kumar",
+      "action": "DEMO_SESSION_START",
+      "details": "Explicit demo preview session activated",
+      "storeId": "store-user-suresh-primary",
+      "timestamp": "2026-09-11T07:35:25.022Z"
+    },
+    {
+      "id": "log-1789109656639-898",
+      "userId": "user-suresh",
+      "userName": "Suresh Kumar",
+      "action": "DEMO_SESSION_START",
+      "details": "Explicit demo preview session activated",
+      "storeId": "store-user-suresh-primary",
+      "timestamp": "2026-09-11T06:54:16.639Z"
+    },
+    {
+      "id": "log-1788689086331-878",
+      "userId": "user-1788689076884-68",
+      "userName": "Test Kirana",
+      "action": "CREATE_ENTRY",
+      "details": "Booked SALE: Basmati Rice 5kg for ₹900 (paid)",
+      "storeId": "store-1788689076884-253",
+      "timestamp": "2026-09-06T10:04:46.331Z"
+    },
+    {
+      "id": "log-1788689076888-927",
+      "userId": "user-1788689076884-68",
+      "userName": "Test Kirana",
+      "action": "USER_REGISTER",
+      "details": "Created new account and primary store: Test Supermarket",
+      "storeId": "store-1788689076884-253",
+      "timestamp": "2026-09-06T10:04:36.888Z"
+    },
+    {
+      "id": "log-1788684264301-568",
+      "userId": "user-1788684212569-911",
+      "userName": "Ramesh Sharma",
+      "action": "USER_LOGIN",
+      "details": "Successful authentication session created for ramesh@kirana.in",
+      "storeId": "store-1788684212570-893",
+      "timestamp": "2026-09-06T08:44:24.301Z"
+    },
+    {
+      "id": "log-1788684246471-363",
+      "userId": "user-suresh",
+      "userName": "Suresh Kumar",
+      "action": "DEMO_SESSION_START",
+      "details": "Explicit demo preview session activated",
+      "storeId": "store-user-suresh-primary",
+      "timestamp": "2026-09-06T08:44:06.471Z"
+    },
+    {
+      "id": "log-1788684243856-133",
+      "userId": "user-1788684212569-911",
+      "userName": "Ramesh Sharma",
+      "action": "CREATE_ENTRY",
+      "details": "Booked SALE: Tata Salt 1kg for ₹140 (paid)",
+      "storeId": "store-1788684212570-893",
+      "timestamp": "2026-09-06T08:44:03.856Z"
+    },
+    {
+      "id": "log-1788684243837-553",
+      "userId": "user-1788684212569-911",
+      "userName": "Ramesh Sharma",
+      "action": "USER_LOGIN",
+      "details": "Successful authentication session created for ramesh@kirana.in",
+      "storeId": "store-1788684212570-893",
+      "timestamp": "2026-09-06T08:44:03.837Z"
+    },
+    {
+      "id": "log-1788684235889-525",
+      "userId": "user-1788684212569-911",
+      "userName": "Ramesh Sharma",
+      "action": "USER_LOGIN",
+      "details": "Successful authentication session created for ramesh@kirana.in",
+      "storeId": "store-1788684212570-893",
+      "timestamp": "2026-09-06T08:43:55.889Z"
+    },
+    {
+      "id": "log-1788684212570-724",
+      "userId": "user-1788684212569-911",
+      "userName": "Ramesh Sharma",
+      "action": "USER_REGISTER",
+      "details": "Created new account and primary store: Ramesh Kirana Mart",
+      "storeId": "store-1788684212570-893",
+      "timestamp": "2026-09-06T08:43:32.571Z"
+    },
+    {
+      "id": "log-1788684209538-156",
+      "userId": "user-suresh",
+      "userName": "Suresh Kumar",
+      "action": "DEMO_SESSION_START",
+      "details": "Explicit demo preview session activated",
+      "storeId": "store-user-suresh-primary",
+      "timestamp": "2026-09-06T08:43:29.538Z"
+    },
+    {
+      "id": "log-1788684204415-628",
+      "userId": "user-suresh",
+      "userName": "Suresh Kumar",
+      "action": "DEMO_SESSION_START",
+      "details": "Explicit demo preview session activated",
+      "storeId": "store-user-suresh-primary",
+      "timestamp": "2026-09-06T08:43:24.415Z"
+    },
+    {
+      "id": "log-1788682590676-2848",
+      "userId": "user-suresh",
+      "userName": "Suresh Kumar",
+      "action": "CREATE_STORE",
+      "details": "System auto-seeded primary business entity: Suresh Kirana Store",
+      "timestamp": "2026-09-06T08:16:30.676Z",
+      "storeId": "store-user-suresh-primary"
+    }
+  ],
+  "invoiceTemplates": [
+    {
+      "id": "tmpl-1788682590706",
+      "storeId": "store-user-suresh-primary",
+      "themeColor": "#0f766e",
+      "logoUrl": "",
+      "layout": "standard",
+      "footerText": "Thank you for shopping with us! Visit again.",
+      "gstEnabled": true,
+      "termsEnabled": true
+    },
+    {
+      "storeId": "store-suresh-primary",
+      "themeColor": "#0f766e",
+      "logoUrl": "",
+      "layout": "standard",
+      "footerText": "Thank you for shopping at Suresh Kirana Store! Visit again.",
+      "gstEnabled": true,
+      "termsEnabled": true
+    }
+  ],
+  "storeMembers": [
+    {
+      "id": "member-suresh-owner",
+      "storeId": "store-suresh-primary",
+      "userId": "user-suresh",
+      "name": "Suresh Kumar",
+      "email": "prashantmenaria7@gmail.com",
+      "role": "Owner",
+      "permissions": [
+        "*"
+      ],
+      "joinedAt": "2026-06-01T00:00:00.000Z"
+    }
+  ]
+}

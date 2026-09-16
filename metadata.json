@@ -1,0 +1,6 @@
+{
+  "name": "LeadgerX",
+  "description": "Premium AI-powered business operating system to manage entries, sales, expenses, inventory, customers, and udhaar credit with intelligent predictions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
